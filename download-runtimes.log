@@ -1,0 +1,20 @@
+
+> @openhands/agent-canvas@1.42.0 download-uv
+> node scripts/download-uv.mjs
+
+[download-uv] Fetching latest uv version from GitHub API...
+[download-uv] Downloading uv v0.13.9 for win32/x64
+[download-uv] URL: https://github.com/astral-sh/uv/releases/download/0.13.9/uv-x86_64-pc-windows-msvc.zip
+[download-uv] Extracting to C:\dev\Bossku-Hands\OpenHands\resources\bin...
+[download-uv] ✓ C:\dev\Bossku-Hands\OpenHands\resources\bin\uv.exe
+[download-uv] ✓ C:\dev\Bossku-Hands\OpenHands\resources\bin\uvx.exe
+[download-uv] Done. Binaries are ready for bundling.
+
+> @openhands/agent-canvas@1.42.0 download-node
+> node scripts/download-node.mjs
+
+[download-node] Downloading Node v24.22.1 for win32/x64
+[download-node] URL: https://nodejs.org/dist/v24.22.1/node-v24.22.1-win-x64.zip
+[download-node] Downloading to C:\Users\mspc0\AppData\Local\Temp\node-download-x64-1795061715024.zip
+[download-node] Extracting to C:\dev\Bossku-Hands\OpenHands\resources\node
+[download-node] ✓ Node v24.22.1 ready at C:\dev\Bossku-Hands\OpenHands\resources\node (~102 MB)

@@ -1,0 +1,3205 @@
+[33m(!) Your Vite config uses features that are unsupported by `configLoader: 'native'`, which is planned to become the default in a future major version of Vite:
+  - import "./src/styles/agent-server-ui-style-scope" without a file extension (vite.config.ts:16:8). Add the file extension
+Set `VITE_CONFIG_NATIVE_IGNORE_WARNING=true` to suppress this warning.[39m
+
+ RUN  v5.1.0 C:/dev/Bossku-Hands/OpenHands
+
+(node:14156) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:18132) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:8952) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:33936) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:32964) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:10384) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:13428) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-Q1y3td/remote.git
+ * [new branch]      main -> main
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+(node:17688) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-3qQHEZ/remote.git
+ * [new branch]      main -> main
+(node:21460) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:19984) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:22312) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:33140) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+fatal: Needed a single revision
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-udT5TN/remote.git
+ * [new branch]      main -> main
+(node:23280) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:29952) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:6348) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:33024) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:25336) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:18608) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:16536) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:29668) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2044) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:18300) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-IUStzB/remote.git
+ * [new branch]      main -> main
+Not implemented: navigation to another Document
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-K1d87l/remote.git
+ * [new branch]      main -> main
+warning: in the working copy of 'new.txt', LF will be replaced by CRLF the next time Git touches it
+fatal: Needed a single revision
+(node:32464) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-7enUEF/remote.git
+ * [new branch]      main -> main
+Preparing worktree (new branch 'feature/manual')
+(node:6568) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:21924) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:460) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ❯ |jsdom| .agents/skills/verify-openhands/scripts/control-openhands.test.mjs (85 tests | 4 failed | 1 skipped) 139482ms
+   × map coverage maps parameterized routes by path, not only by file 409ms
+   × build inputs cover every file the frontend imports from outside src 606ms
+   × the tmux directory of a run comes from its whole path 2ms
+   × bug run classifies live attempts and bug proof turns two runs into a verdict 70936ms
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+(node:9368) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-Zs9wuR/remote.git
+ * [new branch]      main -> main
+warning: in the working copy of 'a.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-oOoqtD/remote.git
+ * [new branch]      main -> main
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-s6cxUa/remote.git
+ * [new branch]      main -> main
+ ❯ |jsdom| __tests__/routes/automations-list.test.tsx (27 tests | 1 failed) 44616ms
+   ❯ AutomationsList — draft sections (6)
+     × does not request saved drafts when capabilities do not advertise drafts 1691ms
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-EZgYEF/remote.git
+ * [new branch]      main -> main
+warning: in the working copy of 'r.txt', LF will be replaced by CRLF the next time Git touches it
+(node:24088) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:13680) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:25920) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:17144) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ❯ |jsdom| __tests__/vite-config.test.ts (9 tests | 1 failed) 57413ms
+   × emits browser-compatible ESM when a bundled CommonJS dependency requires a React peer 114ms
+ ❯ |jsdom| __tests__/components/features/sidebar/sidebar.test.tsx (29 tests | 2 failed) 5398ms
+   ❯ Sidebar (29)
+     × keeps the Add Backend modal open after the popover closes 540ms
+     × keeps the Manage Backends modal open after the popover closes 504ms
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-jlGMUz/remote.git
+ * [new branch]      main -> main
+(node:31848) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-v2QBlu/remote.git
+ * [new branch]      main -> main
+(node:27836) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:25328) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-aaiZLQ/remote.git
+ * [new branch]      main -> main
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-7JPWOz/remote.git
+ * [new branch]      main -> main
+(node:17496) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-w7oMkd/remote.git
+ * [new branch]      main -> main
+(node:25840) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+(node:3724) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-cp4vDY/remote.git
+ * [new branch]      main -> main
+(node:32240) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ❯ |jsdom| .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs (10 tests | 6 failed) 10789ms
+   × points the run at itself while it runs, and puts the run back when stopped 1193ms
+   × puts back the run's own MARS_API_BASE_URL and MARS_WEB when stopped 480ms
+   × leaves the run alone when stopped after someone pointed it elsewhere 305ms
+   × stops on SIGTERM while a tunnel is open 305ms
+   × survives a bad frame on a tunnel, and still puts the run back when stopped 312ms
+   × stops a guest that is still starting when cancelled 6143ms
+(node:16060) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-W2d1NH/remote.git
+ * [new branch]      main -> main
+(node:23736) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-xWO4Ep/remote.git
+ * [new branch]      main -> main
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+To C:/Users/mspc0/AppData/Local/Temp/hands-orch-mdLoCE/remote.git
+ * [new branch]      main -> main
+ ❯ |jsdom| __tests__/scripts/hands/orchestrator.test.ts (26 tests | 7 failed) 341410ms
+   ❯ orchestrator (19)
+     × repairs a CI failure on the app-owned PR, pushes the fix, then goes green 30969ms
+     × escalates an infrastructure failure without calling the coder 30337ms
+     × escalates when the same CI failure signature comes back after a repair 27396ms
+     × stops repairing when the CI repair budget is used up 24187ms
+     × reverts files a reviewer changed and records a warning 31443ms
+     × cancel stops the in-flight planner and finishes the session once 6118ms
+     × stop() suspends open sessions, aborts stages and leaves no timers behind 6516ms
+(node:10400) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:18556) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:10548) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ❯ |jsdom| __tests__/scripts/docker-automation-kv-secret.test.ts (30 tests | 5 failed | 9 skipped) 59725ms
+   ❯ Docker automation KV secret (30)
+     ❯ pin file contract (docker launcher) (9)
+       × refuses a pin that is a symbolic link 12ms
+       × gives every concurrent launch on a blank pin the one pinned key 30031ms
+     ❯ pin file contract (npm launcher) (9)
+       × refuses a pin that is a symbolic link 5ms
+       × gives every concurrent first launch the one pinned key 482ms
+       × gives every concurrent launch on a blank pin the one pinned key 506ms
+(node:16412) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2984) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:33028) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ❯ |jsdom| __tests__/scripts/stryker-diff.test.ts (12 tests | 1 failed) 1118ms
+   ❯ Stryker diff runner (12)
+     × uses the requested base ref and mutates changed TypeScript production files 6ms
+stdout | __tests__/scripts/electron-builder-config.test.ts > electron-builder afterPack hook > strips the auto-bundled node_modules and restores a resolvable runtime closure (macOS layout)
+[electron-builder] stripped bundled node_modules (~0 MB): ..\..\..\Users\mspc0\AppData\Local\Temp\eb-afterpack-kARJ6o\Bossku Hands.app\Contents\Resources\app\node_modules
+
+(node:11636) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:32004) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ❯ |jsdom| __tests__/scripts/mars-secret-store.test.ts (9 tests | 1 failed) 208ms
+   ❯ encrypted file store (2)
+     × round-trips without writing the secret in the clear, readable only by its owner 50ms
+ ❯ |jsdom| __tests__/hooks/use-start-automation-setup.test.ts (5 tests | 1 failed) 1905ms
+   ❯ automation setup conversation handoff (5)
+     × opens immediately on local and carries the selected form through an unmounted launcher 1349ms
+(node:11652) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+stdout | __tests__/scripts/electron-builder-config.test.ts > electron-builder afterPack hook > operates on the flat resources/app layout for non-mac platforms
+[electron-builder] stripped bundled node_modules (~0 MB): ..\..\..\Users\mspc0\AppData\Local\Temp\eb-afterpack-k7ynak\resources\app\node_modules
+
+(node:31464) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:30200) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:32028) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:20092) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:6204) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:27384) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:22468) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:24880) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ❯ |jsdom| __tests__/utils/workspace-file-discovery.test.ts (8 tests | 3 failed) 166ms
+   ❯ workspace file discovery (3)
+     × preserves default exclusions and omits symlinks 24ms
+     × prunes configured directories safely while preserving root bin and including file symlinks 14ms
+     × detects overflow without warning at an exact limit and removes the cap when unlimited 98ms
+ ❯ |jsdom| __tests__/scripts/electron-builder-config.test.ts (9 tests | 6 failed) 184656ms
+   ❯ electron-builder afterPack hook (6)
+     × strips the auto-bundled node_modules and restores a resolvable runtime closure (macOS layout) 30632ms
+     × restores the runtime closure even when no node_modules was bundled 31132ms
+     × operates on the flat resources/app layout for non-mac platforms 30664ms
+     × verifies npm in every per-arch node dir of a universal bundle 31026ms
+     × fails the build when one per-arch node dir of a universal bundle is missing npm 30772ms
+     × still verifies the legacy flat node dir (single-arch back-compat) 30402ms
+(node:11720) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:4272) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ❯ |jsdom| __tests__/e2e/resolve-affected-tests.test.ts (13 tests | 3 failed) 2438ms
+   ❯ mock-LLM E2E affected test resolver (13)
+     × selects mapped source shards plus regressions 288ms
+     × selects the containing feature subset for a test-only new spec change 211ms
+     × selects the exact root spec path defensively for misplaced new specs 260ms
+(node:30696) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:22312) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:26360) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:17780) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:29788) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:30504) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ❯ |jsdom| __tests__/themes/theme-source-guards.test.ts (5 tests | 1 failed) 599ms
+   ❯ theme source guards (5)
+     × routes portals through AppearancePortal so dark: utilities keep matching 15ms
+(node:5684) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:14624) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:8376) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:31800) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:34204) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:33828) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:22144) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:11196) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:12980) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ❯ |jsdom| __tests__/scripts/download-node.test.ts (5 tests | 1 failed) 21ms
+   ❯ download-node getPlatformSpec (5)
+     × defaults platform/arch to the host values 4ms
+(node:12304) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:10132) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:5964) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:22192) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:5340) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+⎯⎯⎯⎯⎯⎯ Failed Tests 43 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  |jsdom| __tests__/vite-config.test.ts > emits browser-compatible ESM when a bundled CommonJS dependency requires a React peer
+Error: EPERM: operation not permitted, symlink 'C:\dev\Bossku-Hands\OpenHands\node_modules' -> 'C:\Users\mspc0\AppData\Local\Temp\canvas-esm-peer-axnx7S\node_modules'
+ ❯ __tests__/vite-config.test.ts:808:5
+    806|       JSON.stringify({ type: "module" }),
+    807|     );
+    808|     await symlink(
+       |     ^
+    809|       resolve("node_modules"),
+    810|       join(directory, "node_modules"),
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/43]⎯
+
+ FAIL  |jsdom| __tests__/e2e/resolve-affected-tests.test.ts > mock-LLM E2E affected test resolver > selects mapped source shards plus regressions
+AssertionError: expected [ …(2) ] to deeply equal [ …(2) ]
+
+- Expected
++ Received
+
+  [
+-   "tests/e2e/mock-llm/regressions",
+-   "tests/e2e/mock-llm/settings",
++   "tests\\e2e\\mock-llm\\regressions",
++   "tests\\e2e\\mock-llm\\settings",
+  ]
+
+ ❯ __tests__/e2e/resolve-affected-tests.test.ts:38:7
+     36|     expect(
+     37|       resolveAffectedTests(["src/components/features/settings/llm-form…
+     38|     ).toEqual([
+       |       ^
+     39|       "tests/e2e/mock-llm/regressions",
+     40|       "tests/e2e/mock-llm/settings",
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/43]⎯
+
+ FAIL  |jsdom| __tests__/e2e/resolve-affected-tests.test.ts > mock-LLM E2E affected test resolver > selects the containing feature subset for a test-only new spec change
+AssertionError: expected [ 'tests\e2e\mock-llm\mcp', …(1) ] to deeply equal [ 'tests/e2e/mock-llm/mcp', …(1) ]
+
+- Expected
++ Received
+
+  [
+-   "tests/e2e/mock-llm/mcp",
+-   "tests/e2e/mock-llm/regressions",
++   "tests\\e2e\\mock-llm\\mcp",
++   "tests\\e2e\\mock-llm\\regressions",
+  ]
+
+ ❯ __tests__/e2e/resolve-affected-tests.test.ts:61:7
+     59|         "tests/e2e/mock-llm/mcp/mock-llm-new-marketplace.spec.ts",
+     60|       ]),
+     61|     ).toEqual(["tests/e2e/mock-llm/mcp", "tests/e2e/mock-llm/regressio…
+       |       ^
+     62|   });
+     63|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[3/43]⎯
+
+ FAIL  |jsdom| __tests__/e2e/resolve-affected-tests.test.ts > mock-LLM E2E affected test resolver > selects the exact root spec path defensively for misplaced new specs
+AssertionError: expected [ …(2) ] to deeply equal [ …(2) ]
+
+- Expected
++ Received
+
+  [
+-   "tests/e2e/mock-llm/regressions",
++   "tests\\e2e\\mock-llm\\regressions",
+    "tests/e2e/mock-llm/mock-llm-new-root.spec.ts",
+  ]
+
+ ❯ __tests__/e2e/resolve-affected-tests.test.ts:67:7
+     65|     expect(
+     66|       resolveAffectedTests(["tests/e2e/mock-llm/mock-llm-new-root.spec…
+     67|     ).toEqual([
+       |       ^
+     68|       "tests/e2e/mock-llm/regressions",
+     69|       "tests/e2e/mock-llm/mock-llm-new-root.spec.ts",
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[4/43]⎯
+
+ FAIL  |jsdom| __tests__/hooks/use-start-automation-setup.test.ts > automation setup conversation handoff > opens immediately on local and carries the selected form through an unmounted launcher
+AssertionError: expected undefined to be 'conv-1' // Object.is equality
+
+Ignored nodes: comments, script, style
+[36m<html>[39m
+  [36m<head />[39m
+  [36m<body>[39m
+    [36m<div />[39m
+  [36m</body>[39m
+[36m</html>[39m
+
+- Expected:
+"conv-1"
+
++ Received:
+undefined
+
+ ❯ __tests__/hooks/use-start-automation-setup.test.ts:135:11
+    133|         expect(
+    134|           useConversationLaunchStore.getState().launches[launch.id].ta…
+    135|         ).toBe("conv-1"),
+       |           ^
+    136|       );
+    137|       expect(getAutomationFormSession("conv-1")).toMatchObject(draft);
+ ❯ runWithExpensiveErrorDiagnosticsDisabled node_modules/@testing-library/dom/dist/config.js:47:12
+ ❯ checkCallback node_modules/@testing-library/dom/dist/wait-for.js:124:77
+ ❯ Timeout.checkRealTimersCallback node_modules/@testing-library/dom/dist/wait-for.js:118:16
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[5/43]⎯
+
+ FAIL  |jsdom| __tests__/routes/automations-list.test.tsx > AutomationsList — draft sections > does not request saved drafts when capabilities do not advertise drafts
+TestingLibraryElementError: Unable to find an element with the text: Daily digest. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div>[39m
+    [36m<div[39m
+      [33mclass[39m=[32m"flex h-full gap-4 lg:gap-10 lg:pl-10"[39m
+    [36m>[39m
+      [36m<aside[39m
+        [33mclass[39m=[32m"hidden lg:flex lg:w-65 lg:shrink-0 lg:flex-col lg:gap-2 lg:sticky lg:top-8 lg:self-start"[39m
+        [33mdata-testid[39m=[32m"automations-navbar-desktop"[39m
+      [36m>[39m
+        [36m<span[39m
+          [33mclass[39m=[32m"px-2 text-sm font-normal text-contrast"[39m
+        [36m>[39m
+          [0mAutomate[0m
+        [36m</span>[39m
+        [36m<div[39m
+          [33mclass[39m=[32m"flex flex-col gap-0.5 pt-0.5"[39m
+        [36m>[39m
+          [36m<a[39m
+            [33maria-current[39m=[32m"page"[39m
+            [33mclass[39m=[32m"flex h-9 min-h-9 min-w-0 items-center rounded-md transition-none motion-reduce:transition-none text-sm leading-5 w-full gap-2 px-2.5 overflow-hidden truncate whitespace-nowrap bg-tertiary text-contrast font-normal"[39m
+            [33mdata-testid[39m=[32m"automations-navigation-list"[39m
+            [33mhref[39m=[32m"/automations"[39m
+          [36m>[39m
+            [36m<span[39m
+              [33mclass[39m=[32m"shrink-0 flex items-center justify-center"[39m
+            [36m>[39m
+              [36m<svg[39m
+                [33maria-hidden[39m=[32m"true"[39m
+                [33mclass[39m=[32m"lucide lucide-layout-dashboard"[39m
+                [33mfill[39m=[32m"none"[39m
+                [33mheight[39m=[32m"16"[39m
+                [33mstroke[39m=[32m"currentColor"[39m
+                [33mstroke-linecap[39m=[32m"round"[39m
+                [33mstroke-linejoin[39m=[32m"round"[39m
+                [33mstroke-width[39m=[32m"2"[39m
+                [33mviewBox[39m=[32m"0 0 24 24"[39m
+                [33mwidth[39m=[32m"16"[39m
+                [33mxmlns[39m=[32m"http://www.w3.org/2000/svg"[39m
+              [36m>[39m
+                [36m<rect[39m
+                  [33mheight[39m=[32m"9"[39m
+                  [33mrx[39m=[32m"1"[39m
+                  [33mwidth[39m=[32m"7"[39m
+                  [33mx[39m=[32m"3"[39m
+                  [33my[39m=[32m"3"[39m
+                [36m/>[39m
+                [36m<rect[39m
+                  [33mheight[39m=[32m"5"[39m
+                  [33mrx[39m=[32m"1"[39m
+                  [33mwidth[39m=[32m"7"[39m
+                  [33mx[39m=[32m"14"[39m
+                  [33my[39m=[32m"3"[39m
+                [36m/>[39m
+                [36m<rect[39m
+                  [33mheight[39m=[32m"9"[39m
+                  [33mrx[39m=[32m"1"[39m
+                  [33mwidth[39m=[32m"7"[39m
+                  [33mx[39m=[32m"14"[39m
+                  [33my[39m=[32m"12"[39m
+                [36m/>[39m
+                [36m<rect[39m
+                  [33mheight[39m=[32m"5"[39m
+                  [33mrx[39m=[32m"1"[39m
+                  [33mwidth[39m=[32m"7"[39m
+                  [33mx[39m=[32m"3"[39m
+                  [33my[39m=[32m"16"[39m
+                [36m/>[39m
+              [36m</svg>[39m
+            [36m</span>[39m
+            [36m<span[39m
+              [33mclass[39m=[32m"truncate"[39m
+            [36m>[39m
+              [0mDashboard[0m
+            [36m</span>[39m
+          [36m</a>[39m
+          [36m<a[39m
+            [33mclass[39m=[32m"flex h-9 min-h-9 min-w-0 items-center rounded-md transition-none motion-reduce:transition-none text-sm leading-5 w-full gap-2 px-2.5 overflow-hidden truncate whitespace-nowrap text-muted hover:text-contrast hover:bg-surface-raised"[39m
+            [33mdata-testid[39m=[32m"automations-navigation-events"[39m
+            [33mhref[39m=[32m"/automations/events"[39m
+          [36m>[39m
+            [36m<span[39m
+              [33mclass[39m=[32m"shrink-0 flex items-center justify-center"[39m
+            [36m>[39m
+              [36m<svg[39m
+                [33maria-hidden[39m=[32m"true"[39m
+                [33mclass[39m=[32m"lucide lucide-activity"[39m
+                [33mfill[39m=[32m"none"[39m
+                [33mheight[39m=[32m"16"[39m
+                [33mstroke[39m=[32m"currentColor"[39m
+                [33mstroke-linecap[39m=[32m"round"[39m
+                [33mstroke-linejoin[39m=[32m"round"[39m
+                [33mstroke-width[39m=[32m"2"[39m
+                [33mviewBox[39m=[32m"0 0 24 24"[39m
+                [33mwidth[39m=[32m"16"[39m
+                [33mxmlns[39m=[32m"http://www.w3.org/2000/svg"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2"[39m
+                [36m/>[39m
+              [36m</svg>[39m
+            [36m</span>[39m
+            [36m<span[39m
+              [33mclass[39m=[32m"truncate"[39m
+            [36m>[39m
+              [0mEvents[0m
+            [36m</span>[39m
+          [36m</a>[39m
+          [36m<a[39m
+            [33mclass[39m=[32m"flex h-9 min-h-9 min-w-0 items-center rounded-md transition-none motion-reduce:transition-none text-sm leading-5 w-full gap-2 px-2.5 overflow-hidden truncate whitespace-nowrap text-muted hover:text-contrast hover:bg-surface-raised"[39m
+            [33mdata-testid[39m=[32m"automations-navigation-templates"[39m
+            [33mhref[39m=[32m"/automations/templates"[39m
+          [36m>[39m
+            [36m<span[39m
+              [33mclass[39m=[32m"shrink-0 flex items-center justify-center"[39m
+            [36m>[39m
+              [36m<svg[39m
+                [33maria-hidden[39m=[32m"true"[39m
+                [33mclass[39m=[32m"lucide lucide-library"[39m
+                [33mfill[39m=[32m"none"[39m
+                [33mheight[39m=[32m"16"[39m
+                [33mstroke[39m=[32m"currentColor"[39m
+                [33mstroke-linecap[39m=[32m"round"[39m
+                [33mstroke-linejoin[39m=[32m"round"[39m
+                [33mstroke-width[39m=[32m"2"[39m
+                [33mviewBox[39m=[32m"0 0 24 24"[39m
+                [33mwidth[39m=[32m"16"[39m
+                [33mxmlns[39m=[32m"http://www.w3.org/2000/svg"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"m16 6 4 14"[39m
+                [36m/>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M12 6v14"[39m
+                [36m/>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M8 8v12"[39m
+                [36m/>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M4 4v16"[39m
+                [36m/>[39m
+              [36m</svg>[39m
+            [36m</span>[39m
+            [36m<span[39m
+              [33mclass[39m=[32m"truncate"[39m
+            [36m>[39m
+    ...
+
+Ignored nodes: comments, script, style
+[36m<body>[39m
+  [36m<div>[39m
+    [36m<div[39m
+      [33mclass[39m=[32m"flex h-full gap-4 lg:gap-10 lg:pl-10"[39m
+    [36m>[39m
+      [36m<aside[39m
+        [33mclass[39m=[32m"hidden lg:flex lg:w-65 lg:shrink-0 lg:flex-col lg:gap-2 lg:sticky lg:top-8 lg:self-start"[39m
+        [33mdata-testid[39m=[32m"automations-navbar-desktop"[39m
+      [36m>[39m
+        [36m<span[39m
+          [33mclass[39m=[32m"px-2 text-sm font-normal text-contrast"[39m
+        [36m>[39m
+          [0mAutomate[0m
+        [36m</span>[39m
+        [36m<div[39m
+          [33mclass[39m=[32m"flex flex-col gap-0.5 pt-0.5"[39m
+        [36m>[39m
+          [36m<a[39m
+            [33maria-current[39m=[32m"page"[39m
+            [33mclass[39m=[32m"flex h-9 min-h-9 min-w-0 items-center rounded-md transition-none motion-reduce:transition-none text-sm leading-5 w-full gap-2 px-2.5 overflow-hidden truncate whitespace-nowrap bg-tertiary text-contrast font-normal"[39m
+            [33mdata-testid[39m=[32m"automations-navigation-list"[39m
+            [33mhref[39m=[32m"/automations"[39m
+          [36m>[39m
+            [36m<span[39m
+              [33mclass[39m=[32m"shrink-0 flex items-center justify-center"[39m
+            [36m>[39m
+              [36m<svg[39m
+                [33maria-hidden[39m=[32m"true"[39m
+                [33mclass[39m=[32m"lucide lucide-layout-dashboard"[39m
+                [33mfill[39m=[32m"none"[39m
+                [33mheight[39m=[32m"16"[39m
+                [33mstroke[39m=[32m"currentColor"[39m
+                [33mstroke-linecap[39m=[32m"round"[39m
+                [33mstroke-linejoin[39m=[32m"round"[39m
+                [33mstroke-width[39m=[32m"2"[39m
+                [33mviewBox[39m=[32m"0 0 24 24"[39m
+                [33mwidth[39m=[32m"16"[39m
+                [33mxmlns[39m=[32m"http://www.w3.org/2000/svg"[39m
+              [36m>[39m
+                [36m<rect[39m
+                  [33mheight[39m=[32m"9"[39m
+                  [33mrx[39m=[32m"1"[39m
+                  [33mwidth[39m=[32m"7"[39m
+                  [33mx[39m=[32m"3"[39m
+                  [33my[39m=[32m"3"[39m
+                [36m/>[39m
+                [36m<rect[39m
+                  [33mheight[39m=[32m"5"[39m
+                  [33mrx[39m=[32m"1"[39m
+                  [33mwidth[39m=[32m"7"[39m
+                  [33mx[39m=[32m"14"[39m
+                  [33my[39m=[32m"3"[39m
+                [36m/>[39m
+                [36m<rect[39m
+                  [33mheight[39m=[32m"9"[39m
+                  [33mrx[39m=[32m"1"[39m
+                  [33mwidth[39m=[32m"7"[39m
+                  [33mx[39m=[32m"14"[39m
+                  [33my[39m=[32m"12"[39m
+                [36m/>[39m
+                [36m<rect[39m
+                  [33mheight[39m=[32m"5"[39m
+                  [33mrx[39m=[32m"1"[39m
+                  [33mwidth[39m=[32m"7"[39m
+                  [33mx[39m=[32m"3"[39m
+                  [33my[39m=[32m"16"[39m
+                [36m/>[39m
+              [36m</svg>[39m
+            [36m</span>[39m
+            [36m<span[39m
+              [33mclass[39m=[32m"truncate"[39m
+            [36m>[39m
+              [0mDashboard[0m
+            [36m</span>[39m
+          [36m</a>[39m
+          [36m<a[39m
+            [33mclass[39m=[32m"flex h-9 min-h-9 min-w-0 items-center rounded-md transition-none motion-reduce:transition-none text-sm leading-5 w-full gap-2 px-2.5 overflow-hidden truncate whitespace-nowrap text-muted hover:text-contrast hover:bg-surface-raised"[39m
+            [33mdata-testid[39m=[32m"automations-navigation-events"[39m
+            [33mhref[39m=[32m"/automations/events"[39m
+          [36m>[39m
+            [36m<span[39m
+              [33mclass[39m=[32m"shrink-0 flex items-center justify-center"[39m
+            [36m>[39m
+              [36m<svg[39m
+                [33maria-hidden[39m=[32m"true"[39m
+                [33mclass[39m=[32m"lucide lucide-activity"[39m
+                [33mfill[39m=[32m"none"[39m
+                [33mheight[39m=[32m"16"[39m
+                [33mstroke[39m=[32m"currentColor"[39m
+                [33mstroke-linecap[39m=[32m"round"[39m
+                [33mstroke-linejoin[39m=[32m"round"[39m
+                [33mstroke-width[39m=[32m"2"[39m
+                [33mviewBox[39m=[32m"0 0 24 24"[39m
+                [33mwidth[39m=[32m"16"[39m
+                [33mxmlns[39m=[32m"http://www.w3.org/2000/svg"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2"[39m
+                [36m/>[39m
+              [36m</svg>[39m
+            [36m</span>[39m
+            [36m<span[39m
+              [33mclass[39m=[32m"truncate"[39m
+            [36m>[39m
+              [0mEvents[0m
+            [36m</span>[39m
+          [36m</a>[39m
+          [36m<a[39m
+            [33mclass[39m=[32m"flex h-9 min-h-9 min-w-0 items-center rounded-md transition-none motion-reduce:transition-none text-sm leading-5 w-full gap-2 px-2.5 overflow-hidden truncate whitespace-nowrap text-muted hover:text-contrast hover:bg-surface-raised"[39m
+            [33mdata-testid[39m=[32m"automations-navigation-templates"[39m
+            [33mhref[39m=[32m"/automations/templates"[39m
+          [36m>[39m
+            [36m<span[39m
+              [33mclass[39m=[32m"shrink-0 flex items-center justify-center"[39m
+            [36m>[39m
+              [36m<svg[39m
+                [33maria-hidden[39m=[32m"true"[39m
+                [33mclass[39m=[32m"lucide lucide-library"[39m
+                [33mfill[39m=[32m"none"[39m
+                [33mheight[39m=[32m"16"[39m
+                [33mstroke[39m=[32m"currentColor"[39m
+                [33mstroke-linecap[39m=[32m"round"[39m
+                [33mstroke-linejoin[39m=[32m"round"[39m
+                [33mstroke-width[39m=[32m"2"[39m
+                [33mviewBox[39m=[32m"0 0 24 24"[39m
+                [33mwidth[39m=[32m"16"[39m
+                [33mxmlns[39m=[32m"http://www.w3.org/2000/svg"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"m16 6 4 14"[39m
+                [36m/>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M12 6v14"[39m
+                [36m/>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M8 8v12"[39m
+                [36m/>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M4 4v16"[39m
+                [36m/>[39m
+              [36m</svg>[39m
+            [36m</span>[39m
+            [36m<span[39m
+              [33mclass[39m=[32m"truncate"[39m
+            [36m>[39m
+    ...
+ ❯ waitForWrapper node_modules/@testing-library/dom/dist/wait-for.js:163:27
+ ❯ node_modules/@testing-library/dom/dist/query-helpers.js:86:33
+ ❯ __tests__/routes/automations-list.test.tsx:297:18
+    295|     renderList();
+    296|
+    297|     await screen.findByText(automation.name);
+       |                  ^
+    298|     await waitFor(() =>
+    299|       expect(AutomationService.listServerDrafts).not.toHaveBeenCalled(…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[6/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/docker-automation-kv-secret.test.ts > Docker automation KV secret > pin file contract (docker launcher) > refuses a pin that is a symbolic link
+Error: EPERM: operation not permitted, symlink 'C:\Users\mspc0\AppData\Local\Temp\docker-kv-secret-xUycyK\elsewhere.txt' -> 'C:\Users\mspc0\AppData\Local\Temp\docker-kv-secret-xUycyK\automation-kv-secret.txt'
+ ❯ __tests__/scripts/docker-automation-kv-secret.test.ts:305:9
+    303|         const target = path.join(dir, "elsewhere.txt");
+    304|         writeFileSync(target, "pinned-key\n");
+    305|         symlinkSync(target, path.join(dir, "automation-kv-secret.txt")…
+       |         ^
+    306|
+    307|         expectRefused(dir, /symbolic link/);
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[7/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/docker-automation-kv-secret.test.ts > Docker automation KV secret > pin file contract (docker launcher) > gives every concurrent launch on a blank pin the one pinned key
+Error: Test timed out in 30000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ ❯ __tests__/scripts/docker-automation-kv-secret.test.ts:351:7
+    349|       });
+    350|
+    351|       it("gives every concurrent launch on a blank pin the one pinned …
+       |       ^
+    352|         // The race is timing-dependent, so run several rounds.
+    353|         for (let round = 0; round < 10; round += 1) {
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[8/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/docker-automation-kv-secret.test.ts > Docker automation KV secret > pin file contract (npm launcher) > refuses a pin that is a symbolic link
+Error: EPERM: operation not permitted, symlink 'C:\Users\mspc0\AppData\Local\Temp\docker-kv-secret-RtOLnQ\elsewhere.txt' -> 'C:\Users\mspc0\AppData\Local\Temp\docker-kv-secret-RtOLnQ\automation-kv-secret.txt'
+ ❯ __tests__/scripts/docker-automation-kv-secret.test.ts:305:9
+    303|         const target = path.join(dir, "elsewhere.txt");
+    304|         writeFileSync(target, "pinned-key\n");
+    305|         symlinkSync(target, path.join(dir, "automation-kv-secret.txt")…
+       |         ^
+    306|
+    307|         expectRefused(dir, /symbolic link/);
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[9/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/docker-automation-kv-secret.test.ts > Docker automation KV secret > pin file contract (npm launcher) > gives every concurrent first launch the one pinned key
+AssertionError: expected { code: 1, …(1) } to deeply equal { code: +0, stderr: '' }
+
+- Expected
++ Received
+
+  {
+-   "code": 0,
+-   "stderr": "",
++   "code": 1,
++   "stderr": "node:internal/modules/esm/load:191
++     throw new ERR_UNSUPPORTED_ESM_URL_SCHEME(parsed, schemes);
++           ^
++ 
++ Error [ERR_UNSUPPORTED_ESM_URL_SCHEME]: Only URLs with a scheme in: file, data, and node are supported by the default ESM loader. On Windows, absolute paths must be valid file:// URLs. Received protocol 'c:'
++     at throwIfUnsupportedURLScheme (node:internal/modules/esm/load:191:11)
++     at defaultLoadSync (node:internal/modules/esm/load:144:3)
++     at #loadAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:809:12)
++     at #loadSync (node:internal/modules/esm/loader:841:53)
++     at ModuleLoader.load (node:internal/modules/esm/loader:790:26)
++     at ModuleLoader.loadAndTranslate (node:internal/modules/esm/loader:501:31)
++     at #getOrCreateModuleJobAfterResolve (node:internal/modules/esm/loader:567:36)
++     at afterResolve (node:internal/modules/esm/loader:614:52)
++     at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:620:12)
++     at node:internal/modules/esm/loader:639:32 {
++   code: 'ERR_UNSUPPORTED_ESM_URL_SCHEME'
++ }
++ 
++ Node.js v26.8.1
++ ",
+  }
+
+ ❯ racingLauncher __tests__/scripts/docker-automation-kv-secret.test.ts:105:28
+    103|   child.stderr.on("data", (chunk) => (stderr += chunk));
+    104|   const [code] = await once(child, "close");
+    105|   expect({ code, stderr }).toEqual({ code: 0, stderr: "" });
+       |                            ^
+    106|   return stdout.split("\n").at(-1) ?? "";
+    107| }
+ ❯ __tests__/scripts/docker-automation-kv-secret.test.ts:338:22
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[10/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/docker-automation-kv-secret.test.ts > Docker automation KV secret > pin file contract (npm launcher) > gives every concurrent launch on a blank pin the one pinned key
+AssertionError: expected { code: 1, …(1) } to deeply equal { code: +0, stderr: '' }
+
+- Expected
++ Received
+
+  {
+-   "code": 0,
+-   "stderr": "",
++   "code": 1,
++   "stderr": "node:internal/modules/esm/load:191
++     throw new ERR_UNSUPPORTED_ESM_URL_SCHEME(parsed, schemes);
++           ^
++ 
++ Error [ERR_UNSUPPORTED_ESM_URL_SCHEME]: Only URLs with a scheme in: file, data, and node are supported by the default ESM loader. On Windows, absolute paths must be valid file:// URLs. Received protocol 'c:'
++     at throwIfUnsupportedURLScheme (node:internal/modules/esm/load:191:11)
++     at defaultLoadSync (node:internal/modules/esm/load:144:3)
++     at #loadAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:809:12)
++     at #loadSync (node:internal/modules/esm/loader:841:53)
++     at ModuleLoader.load (node:internal/modules/esm/loader:790:26)
++     at ModuleLoader.loadAndTranslate (node:internal/modules/esm/loader:501:31)
++     at #getOrCreateModuleJobAfterResolve (node:internal/modules/esm/loader:567:36)
++     at afterResolve (node:internal/modules/esm/loader:614:52)
++     at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:620:12)
++     at node:internal/modules/esm/loader:639:32 {
++   code: 'ERR_UNSUPPORTED_ESM_URL_SCHEME'
++ }
++ 
++ Node.js v26.8.1
++ ",
+  }
+
+ ❯ racingLauncher __tests__/scripts/docker-automation-kv-secret.test.ts:105:28
+    103|   child.stderr.on("data", (chunk) => (stderr += chunk));
+    104|   const [code] = await once(child, "close");
+    105|   expect({ code, stderr }).toEqual({ code: 0, stderr: "" });
+       |                            ^
+    106|   return stdout.split("\n").at(-1) ?? "";
+    107| }
+ ❯ __tests__/scripts/docker-automation-kv-secret.test.ts:358:24
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[11/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/download-node.test.ts > download-node getPlatformSpec > defaults platform/arch to the host values
+AssertionError: expected [ 'darwin', 'linux', 'win32' ] to include 'win'
+ ❯ __tests__/scripts/download-node.test.ts:42:42
+     40|     const spec = getPlatformSpec("22.12.0");
+     41|     expect(spec.name.startsWith("node-v22.12.0-")).toBe(true);
+     42|     expect(["darwin", "linux", "win32"]).toContain(
+       |                                          ^
+     43|       spec.name.replace("node-v22.12.0-", "").split("-")[0],
+     44|     );
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[12/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/electron-builder-config.test.ts > electron-builder afterPack hook > strips the auto-bundled node_modules and restores a resolvable runtime closure (macOS layout)
+Error: Test timed out in 30000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ ❯ __tests__/scripts/electron-builder-config.test.ts:90:3
+     88|   });
+     89|
+     90|   it("strips the auto-bundled node_modules and restores a resolvable r…
+       |   ^
+     91|     tmp = mkdtempSync(join(tmpdir(), "eb-afterpack-"));
+     92|     const appDir = appDirFor("darwin", tmp);
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[13/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/electron-builder-config.test.ts > electron-builder afterPack hook > restores the runtime closure even when no node_modules was bundled
+Error: Test timed out in 30000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ ❯ __tests__/scripts/electron-builder-config.test.ts:105:3
+    103|   });
+    104|
+    105|   it("restores the runtime closure even when no node_modules was bundl…
+       |   ^
+    106|     // If electron-builder ever stops copying the hoisted tree, the re…
+    107|     // must still run — otherwise the installed app regresses to
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[14/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/electron-builder-config.test.ts > electron-builder afterPack hook > operates on the flat resources/app layout for non-mac platforms
+Error: Test timed out in 30000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ ❯ __tests__/scripts/electron-builder-config.test.ts:119:3
+    117|   });
+    118|
+    119|   it("operates on the flat resources/app layout for non-mac platforms"…
+       |   ^
+    120|     tmp = mkdtempSync(join(tmpdir(), "eb-afterpack-"));
+    121|     const appDir = appDirFor("linux", tmp);
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[15/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/electron-builder-config.test.ts > electron-builder afterPack hook > verifies npm in every per-arch node dir of a universal bundle
+Error: Test timed out in 30000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ ❯ __tests__/scripts/electron-builder-config.test.ts:143:3
+    141|   });
+    142|
+    143|   it("verifies npm in every per-arch node dir of a universal bundle", …
+       |   ^
+    144|     tmp = mkdtempSync(join(tmpdir(), "eb-afterpack-"));
+    145|     const resourcesDir = resourcesDirFor("darwin", tmp);
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[16/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/electron-builder-config.test.ts > electron-builder afterPack hook > fails the build when one per-arch node dir of a universal bundle is missing npm
+Error: Test timed out in 30000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ ❯ __tests__/scripts/electron-builder-config.test.ts:155:3
+    153|   });
+    154|
+    155|   it("fails the build when one per-arch node dir of a universal bundle…
+       |   ^
+    156|     tmp = mkdtempSync(join(tmpdir(), "eb-afterpack-"));
+    157|     const resourcesDir = resourcesDirFor("darwin", tmp);
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[17/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/electron-builder-config.test.ts > electron-builder afterPack hook > still verifies the legacy flat node dir (single-arch back-compat)
+Error: Test timed out in 30000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ ❯ __tests__/scripts/electron-builder-config.test.ts:169:3
+    167|   });
+    168|
+    169|   it("still verifies the legacy flat node dir (single-arch back-compat…
+       |   ^
+    170|     tmp = mkdtempSync(join(tmpdir(), "eb-afterpack-"));
+    171|     const resourcesDir = resourcesDirFor("darwin", tmp);
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[18/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/mars-secret-store.test.ts > encrypted file store > round-trips without writing the secret in the clear, readable only by its owner
+AssertionError: expected 438 to be 384 // Object.is equality
+
+- Expected
++ Received
+
+- 384
++ 438
+
+ ❯ __tests__/scripts/mars-secret-store.test.ts:136:62
+    134|       "dop_v1_secret",
+    135|     );
+    136|     expect(statSync(join(dir, "secrets.json")).mode & 0o777).toBe(0o60…
+       |                                                              ^
+    137|   });
+    138|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[19/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/stryker-diff.test.ts > Stryker diff runner > uses the requested base ref and mutates changed TypeScript production files
+AssertionError: expected 'C:\dev\Bossku-Hands\OpenHands\node_mo…' to match /node_modules\/@stryk…/@stryker-mutator\
+
+- Expected:
+/node_modules\/@stryker-mutator\/core\/bin\/stryker\.js$/
+
++ Received:
+"C:\\dev\\Bossku-Hands\\OpenHands\\node_modules\\@stryker-mutator\\core\\bin\\stryker.js"
+
+ ❯ __tests__/scripts/stryker-diff.test.ts:102:38
+    100|       "src/a.ts,src/ui/card.tsx",
+    101|     ]);
+    102|     expect(result.calls[1]?.args[0]).toMatch(
+       |                                      ^
+    103|       /node_modules\/@stryker-mutator\/core\/bin\/stryker\.js$/,
+    104|     );
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[20/43]⎯
+
+ FAIL  |jsdom| __tests__/themes/theme-source-guards.test.ts > theme source guards > routes portals through AppearancePortal so dark: utilities keep matching
+AssertionError: expected [ Array(1) ] to deeply equal []
+
+- Expected
++ Received
+
+- []
++ [
++   "components\\shared\\appearance-portal.tsx",
++ ]
+
+ ❯ __tests__/themes/theme-source-guards.test.ts:32:7
+     30|     expect(
+     31|       offenders(/createPortal\(/, ["components/shared/appearance-porta…
+     32|     ).toEqual([]);
+       |       ^
+     33|   });
+     34|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[21/43]⎯
+
+ FAIL  |jsdom| __tests__/utils/workspace-file-discovery.test.ts > workspace file discovery > preserves default exclusions and omits symlinks
+Error: EPERM: operation not permitted, symlink 'instructions.md' -> 'C:\Users\mspc0\AppData\Local\Temp\workspace-discovery-flZCtg\AGENTS.md'
+ ❯ __tests__/utils/workspace-file-discovery.test.ts:36:5
+     34|     }
+     35|     writeFileSync(join(workspace, "instructions.md"), "fixture");
+     36|     symlinkSync("instructions.md", join(workspace, "AGENTS.md"));
+       |     ^
+     37|     symlinkSync("nested", join(workspace, "directory-link"));
+     38|   });
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[22/43]⎯
+
+ FAIL  |jsdom| __tests__/utils/workspace-file-discovery.test.ts > workspace file discovery > prunes configured directories safely while preserving root bin and including file symlinks
+Error: EPERM: operation not permitted, symlink 'instructions.md' -> 'C:\Users\mspc0\AppData\Local\Temp\workspace-discovery-i9iDuQ\AGENTS.md'
+ ❯ __tests__/utils/workspace-file-discovery.test.ts:36:5
+     34|     }
+     35|     writeFileSync(join(workspace, "instructions.md"), "fixture");
+     36|     symlinkSync("instructions.md", join(workspace, "AGENTS.md"));
+       |     ^
+     37|     symlinkSync("nested", join(workspace, "directory-link"));
+     38|   });
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[23/43]⎯
+
+ FAIL  |jsdom| __tests__/utils/workspace-file-discovery.test.ts > workspace file discovery > detects overflow without warning at an exact limit and removes the cap when unlimited
+Error: EPERM: operation not permitted, symlink 'instructions.md' -> 'C:\Users\mspc0\AppData\Local\Temp\workspace-discovery-e3vpaH\AGENTS.md'
+ ❯ __tests__/utils/workspace-file-discovery.test.ts:36:5
+     34|     }
+     35|     writeFileSync(join(workspace, "instructions.md"), "fixture");
+     36|     symlinkSync("instructions.md", join(workspace, "AGENTS.md"));
+       |     ^
+     37|     symlinkSync("nested", join(workspace, "directory-link"));
+     38|   });
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[24/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/hands/orchestrator.test.ts > orchestrator > repairs a CI failure on the app-owned PR, pushes the fix, then goes green
+Error: Test timed out in 30000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ ❯ __tests__/scripts/hands/orchestrator.test.ts:479:3
+    477|     const refused = await h.orch.approve(session.id, "push_fix");
+    478|     expect(refused.state).toBe("AWAITING_APPROVAL");
+    479|     expect((refused as any).error).toEqual(expect.objectContaining({ c…
+       |   ^
+    480|     expect(h.orch.getSession(session.id)!.state).toBe("AWAITING_APPROV…
+    481|     expect(h.github.createPull).not.toHaveBeenCalled();
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[25/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/hands/orchestrator.test.ts > orchestrator > escalates an infrastructure failure without calling the coder
+Error: Test timed out in 30000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ ❯ __tests__/scripts/hands/orchestrator.test.ts:519:3
+    517|
+    518|     await h.orch.handleObservation(ciSuccess(started.id, fixed.pr!.hea…
+    519|     await h.orch.waitIdle();
+       |   ^
+    520|     expect(h.orch.getSession(started.id)!.state).toBe("READY_FOR_HUMAN…
+    521|   });
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[26/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/hands/orchestrator.test.ts > orchestrator > escalates when the same CI failure signature comes back after a repair
+AssertionError: expected 'ci_fix_failed' to be 'same_failure_repeated_without_progress' // Object.is equality
+
+Expected: "same_failure_repeated_without_progress"
+Received: "ci_fix_failed"
+
+ ❯ __tests__/scripts/hands/orchestrator.test.ts:568:38
+    566|     expect(repaired.counters.ciRepairRounds).toBe(1);
+    567|
+    568|     await h.orch.handleObservation(ciFailure(session.id, repaired.pr!.…
+       |                                      ^
+    569|     await h.orch.waitIdle();
+    570|     const stuck = h.orch.getSession(session.id)!;
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[27/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/hands/orchestrator.test.ts > orchestrator > stops repairing when the CI repair budget is used up
+AssertionError: expected 'ci_fix_failed' to be 'ci_repair_budget_exhausted' // Object.is equality
+
+Expected: "ci_repair_budget_exhausted"
+Received: "ci_fix_failed"
+
+ ❯ __tests__/scripts/hands/orchestrator.test.ts:599:40
+    597|     await h.orch.handleObservation(ciFailure(session.id, h.orch.getSes…
+    598|     await h.orch.waitIdle();
+    599|     await h.orch.handleObservation(ciFailure(session.id, h.orch.getSes…
+       |                                        ^
+    600|     await h.orch.waitIdle();
+    601|     const stopped = h.orch.getSession(session.id)!;
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[28/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/hands/orchestrator.test.ts > orchestrator > reverts files a reviewer changed and records a warning
+Error: Test timed out in 30000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ ❯ __tests__/scripts/hands/orchestrator.test.ts:602:3
+    600|     await h.orch.waitIdle();
+    601|     const stopped = h.orch.getSession(session.id)!;
+    602|     expect(stopped.state).toBe("ESCALATED");
+       |   ^
+    603|     expect(stopped.escalation?.reason).toBe("ci_repair_budget_exhauste…
+    604|   });
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[29/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/hands/orchestrator.test.ts > orchestrator > cancel stops the in-flight planner and finishes the session once
+AssertionError: expected +0 to be 1 // Object.is equality
+
+- Expected
++ Received
+
+- 1
++ 0
+
+ ❯ __tests__/scripts/hands/orchestrator.test.ts:635:71
+    637|       },
+    638|     });
+    639|     const session = await h.orch.startSession(chatRequest(h.repo.dir, …
+       |                         ^
+    640|     await vi.waitFor(() => expect(h.agent.callsFor("planner").length).…
+    641|     const cancelled = await h.orch.cancel(session.id);
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[30/43]⎯
+
+ FAIL  |jsdom| __tests__/scripts/hands/orchestrator.test.ts > orchestrator > stop() suspends open sessions, aborts stages and leaves no timers behind
+AssertionError: expected +0 to be 1 // Object.is equality
+
+- Expected
++ Received
+
+- 1
++ 0
+
+ ❯ __tests__/scripts/hands/orchestrator.test.ts:746:71
+    748|       },
+    749|     });
+    750|     const session = await h.orch.startSession(chatRequest(h.repo.dir, …
+       |                         ^
+    751|     await vi.waitFor(() => expect(h.agent.callsFor("planner").length).…
+    752|     await h.orch.stop();
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[31/43]⎯
+
+ FAIL  |jsdom| .agents/skills/verify-openhands/scripts/control-openhands.test.mjs > map coverage maps parameterized routes by path, not only by file
+AssertionError: Expected values to be strictly deep-equal:
++ actual - expected
+
++ [
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-settings-connections.tsx',
++     mapped: false,
++     path: '/settings/hands-connections'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-settings-models.tsx',
++     mapped: false,
++     path: '/settings/hands-models'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-settings-workflow.tsx',
++     mapped: false,
++     path: '/settings/hands-workflow'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-settings-ci.tsx',
++     mapped: false,
++     path: '/settings/hands-ci'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-settings-pull-requests.tsx',
++     mapped: false,
++     path: '/settings/hands-pull-requests'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-settings-linear.tsx',
++     mapped: false,
++     path: '/settings/hands-linear'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-settings-skills.tsx',
++     mapped: false,
++     path: '/settings/hands-skills'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-settings-security.tsx',
++     mapped: false,
++     path: '/settings/hands-security'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-linear.tsx',
++     mapped: false,
++     path: '/hands/linear'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-sessions.tsx',
++     mapped: false,
++     path: '/hands/sessions'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-session-detail.tsx',
++     mapped: false,
++     path: '/hands/sessions/:sessionId'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-session-review.tsx',
++     mapped: false,
++     path: '/hands/sessions/:sessionId/review'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-graph.tsx',
++     mapped: false,
++     path: '/hands/graph'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-changes.tsx',
++     mapped: false,
++     path: '/hands/changes'
++   },
++   {
++     byPath: false,
++     excluded: false,
++     file: 'src/routes/hands-reviews.tsx',
++     mapped: false,
++     path: '/hands/reviews'
++   }
++ ]
+- []
+
+
+- Expected
++ Received
+
+- []
++ [
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-settings-connections.tsx",
++     "mapped": false,
++     "path": "/settings/hands-connections",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-settings-models.tsx",
++     "mapped": false,
++     "path": "/settings/hands-models",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-settings-workflow.tsx",
++     "mapped": false,
++     "path": "/settings/hands-workflow",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-settings-ci.tsx",
++     "mapped": false,
++     "path": "/settings/hands-ci",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-settings-pull-requests.tsx",
++     "mapped": false,
++     "path": "/settings/hands-pull-requests",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-settings-linear.tsx",
++     "mapped": false,
++     "path": "/settings/hands-linear",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-settings-skills.tsx",
++     "mapped": false,
++     "path": "/settings/hands-skills",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-settings-security.tsx",
++     "mapped": false,
++     "path": "/settings/hands-security",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-linear.tsx",
++     "mapped": false,
++     "path": "/hands/linear",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-sessions.tsx",
++     "mapped": false,
++     "path": "/hands/sessions",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-session-detail.tsx",
++     "mapped": false,
++     "path": "/hands/sessions/:sessionId",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-session-review.tsx",
++     "mapped": false,
++     "path": "/hands/sessions/:sessionId/review",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-graph.tsx",
++     "mapped": false,
++     "path": "/hands/graph",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-changes.tsx",
++     "mapped": false,
++     "path": "/hands/changes",
++   },
++   {
++     "byPath": false,
++     "excluded": false,
++     "file": "src/routes/hands-reviews.tsx",
++     "mapped": false,
++     "path": "/hands/reviews",
++   },
++ ]
+
+ ❯ .agents/skills/verify-openhands/scripts/control-openhands.test.mjs:475:10
+    473|   ])
+    474|     assert.ok(!out.routes.fileOnly.includes(path), path);
+    475|   assert.deepEqual(out.routes.unmapped, []);
+       |          ^
+    476| });
+    477|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[32/43]⎯
+
+ FAIL  |jsdom| .agents/skills/verify-openhands/scripts/control-openhands.test.mjs > build inputs cover every file the frontend imports from outside src
+AssertionError: Expected values to be strictly deep-equal:
++ actual - expected
+
++ [
++   'src\\api\\agent-server-adapter',
++   'src\\api\\agent-server-client-options',
++   'src\\api\\backend-registry\\active-store',
++   'src\\api\\cloud\\agent-profiles-service.api',
++   'src\\api\\agent-server-compatibility',
++   'src\\api\\agent-server-config',
++   'src\\api\\backend-registry\\auth',
++   'src\\api\\conversation-service\\agent-server-conversation-service.types',
++   'src\\api\\agent-profiles-service\\profile-behavior',
++   'src\\api\\settings-service\\settings-service.api',
++   'src\\api\\conversation-metadata-store',
++   'src\\api\\llm-subscription-service',
++   'src\\api\\canvas-ui-client-tool',
++   'src\\api\\launch-child-conversation-client-tool',
++   'src\\api\\automation-form-client-tool',
++   'src\\api\\request-secret-client-tool',
++   'src\\api\\backend-registry\\types',
++   'config\\defaults.json',
++   'src\\api\\cloud\\proxy',
++   'src\\api\\client-source',
++   'src\\api\\backend-registry\\health-store',
++   'src\\api\\backend-registry\\storage',
++   'src\\api\\backend-registry\\url-selection',
++   'src\\api\\backend-registry\\health-storage',
++   'src\\api\\backend-registry\\default-backend',
++   'src\\api\\meta-profiles-service\\meta-profiles-service.api',
++   'src\\api\\cloud\\types',
++   'src\\api\\provider-connections-service\\provider-connections-service.api',
++   'src\\api\\cloud\\client',
++   'src\\api\\cloud\\organization-suspension-store',
++   'src\\api\\cloud\\sandbox-service.types',
++   'src\\api\\secrets-service.types',
++   'src\\api\\with-retry',
++   'src\\api\\config-service\\config-service.types',
++   'src\\api\\conversation-workspace',
++   'src\\api\\hooks-service',
++   'src\\api\\profiles-service\\profiles-service.api',
++   'src\\api\\cloud\\conversation-service.api',
++   'src\\api\\open-hands.types',
++   'src\\services\\telemetry',
++   'src\\api\\agent-server-home',
++   'src\\api\\event-service\\event-service.types',
++   'src\\api\\cloud\\git-service.api',
++   'src\\api\\hands\\hands-types',
++   'src\\api\\mars\\mars-tunnel-backend',
++   'src\\api\\mcp-health\\mcp-health-store',
++   'src\\api\\cloud\\mcp-service.api',
++   'src\\api\\mcp-service\\mcp-redacted-credentials',
++   'src\\api\\cloud\\meta-profiles-service.api',
++   'src\\api\\option-service\\option.types',
++   'src\\api\\plugins-service',
++   'src\\api\\cloud\\profiles-service.api',
++   'src\\api\\cloud\\provider-connections-service.api',
++   'src\\api\\cloud\\secrets-service.api',
++   'src\\api\\cloud\\settings-service.api',
++   'src\\api\\cloud\\skills-service.api',
++   'src\\components\\features\\browser\\browser',
++   'src\\components\\features\\browser\\browser-snapshot',
++   'src\\components\\features\\browser\\empty-browser-message',
++   'src\\routes\\conversation',
++   'src\\components\\features\\chat\\chat-interface',
++   'src\\components\\features\\conversation\\conversation-loading',
++   'src\\components\\features\\conversation\\conversation-main\\conversation-main',
++   'src\\components\\features\\conversation\\conversation-main\\chat-interface-wrapper',
++   'src\\components\\features\\conversation\\conversation-name',
++   'src\\components\\features\\conversation\\conversation-name-with-status',
++   'src\\components\\features\\conversation\\conversation-tabs\\conversation-tabs',
++   'src\\components\\conversation-events\\chat\\event-content-helpers\\get-skill-ready-content',
++   'src\\components\\conversation-events\\chat\\event-content-helpers\\shared',
++   'src\\components\\features\\chat\\mono-component',
++   'src\\components\\features\\chat\\path-component',
++   'src\\components\\conversation-events\\chat\\event-content-helpers\\get-action-content',
++   'src\\components\\conversation-events\\chat\\event-content-helpers\\get-observation-content',
++   'src\\components\\conversation-events\\chat\\event-content-helpers\\get-acp-tool-call-content',
++   'src\\components\\conversation-events\\chat\\task-tracking\\task-tracking-observation-content',
++   'src\\components\\conversation-events\\chat\\event-content-helpers\\create-skill-ready-event',
++   'src\\components\\features\\chat\\tool-visualizers\\dispatcher',
++   'src\\components\\conversation-events\\chat\\event-content-helpers\\get-action-event-title',
++   'src\\components\\conversation-events\\chat\\event-content-helpers\\get-observation-result',
++   'src\\components\\features\\markdown\\markdown-renderer',
++   'src\\components\\conversation-events\\chat\\event-content-helpers\\parse-message-from-event',
++   'src\\components\\features\\chat\\error-message',
++   'src\\components\\conversation-events\\chat\\event-thought-helpers',
++   'src\\components\\conversation-events\\chat\\event-message-components\\session-activity',
++   'src\\components\\conversation-events\\chat\\event-message-components\\event-group-summary',
++   'src\\components\\conversation-events\\chat\\event-content-helpers\\get-event-content',
++   'src\\components\\features\\chat\\is-in-event-group-context',
++   'src\\components\\features\\chat\\chat-message',
++   'src\\components\\conversation-events\\chat\\event-message-components\\critic-result-display',
++   'src\\components\\features\\chat\\generic-event-message',
++   'src\\components\\conversation-events\\chat\\event-content-helpers\\get-invoke-skill-items',
++   'src\\components\\conversation-events\\chat\\event-message-components\\skill-ready-content-list',
++   'src\\components\\conversation-events\\chat\\event-message-components\\collapsible-thinking',
++   'src\\components\\conversation-events\\chat\\event-message-components\\skill-item-expanded',
++   'src\\components\\features\\images\\image-carousel',
++   'src\\components\\features\\chat\\plan-preview',
++   'src\\components\\conversation-events\\chat\\event-message-components\\error-event-message',
++   'src\\components\\conversation-events\\chat\\event-message-components\\user-assistant-event-message',
++   'src\\components\\conversation-events\\chat\\event-message-components\\finish-event-message',
++   'src\\components\\conversation-events\\chat\\event-message-components\\generic-event-message-wrapper',
++   'src\\components\\conversation-events\\chat\\event-message-components\\thought-event-message',
++   'src\\components\\conversation-events\\chat\\event-message-components\\hook-execution-event-message',
++   'src\\components\\conversation-events\\chat\\event-message-components\\corrective-nudge-message',
++   'src\\components\\conversation-events\\chat\\event-content-helpers\\should-render-event',
++   'src\\components\\conversation-events\\chat\\hooks\\use-plan-preview-events',
++   'src\\components\\conversation-events\\chat\\step-disclosure-context',
++   'src\\components\\conversation-events\\chat\\event-message',
++   'src\\components\\conversation-events\\chat\\group-events',
++   'src\\components\\conversation-events\\chat\\event-message-components\\event-group',
++   'src\\components\\conversation-events\\chat\\scroll-anchoring',
++   'src\\components\\conversation-events\\chat\\task-tracking\\task-item',
++   'src\\components\\conversation-events\\chat\\task-tracking\\task-list-section',
++   'src\\components\\features\\automations\\kebab-menu-item-content',
++   'src\\components\\features\\automations\\kebab-menu',
++   'src\\components\\features\\automations\\build-automation-pills',
++   'src\\components\\features\\automations\\build-automation-menu-items',
++   'src\\components\\features\\automations\\automation-action-button-classes',
++   'src\\components\\features\\automations\\automation-run-insights',
++   'src\\components\\features\\automations\\automation-view-mode',
++   'src\\components\\features\\automations\\to-latest-run-state',
++   'src\\components\\features\\automations\\detail\\run-phase',
++   'src\\components\\features\\automations\\detail\\run-status-badge',
++   'src\\components\\features\\automations\\detail\\active-status-badge',
++   'src\\components\\features\\automations\\automation-card',
++   'src\\components\\features\\automations\\automation-list-row',
++   'src\\components\\features\\automations\\status-badge',
++   'src\\components\\features\\automations\\automation-tag-pill',
++   'src\\components\\features\\automations\\view-menu-item-content',
++   'src\\components\\features\\automations\\detail\\section-card',
++   'src\\components\\features\\automations\\detail\\config-field',
++   'src\\components\\features\\automations\\detail\\branch-badge',
++   'src\\components\\features\\automations\\detail\\plugin-chip',
++   'src\\components\\features\\automations\\detail\\prompt-section',
++   'src\\components\\features\\automations\\detail\\script-section',
++   'src\\components\\features\\automations\\detail\\run-logs-modal',
++   'src\\components\\features\\automations\\detail\\activity-log-item',
++   'src\\components\\features\\automations\\automation-page-header',
++   'src\\components\\features\\automations\\detail\\back-link',
++   'src\\components\\features\\automations\\detail\\debug-automation-button',
++   'src\\components\\features\\automations\\create-instructions',
++   'src\\components\\features\\automations\\recommended-automations-launcher',
++   'src\\components\\features\\automations\\git-sync\\git-sync-status-pill',
++   'src\\components\\features\\automations\\git-sync\\git-sync-activity-row',
++   'src\\components\\features\\automations\\built-in-integration-choice-modal',
++   'src\\components\\features\\automations\\provider-setup-notice-modal',
++   'src\\components\\features\\automations\\recommended-automations-rail',
++   'src\\components\\features\\automations\\recommended-automations-section',
++   'src\\components\\features\\automations\\responder-deployment-modal',
++   'src\\components\\features\\automations\\template-filter-chips',
++   'src\\components\\features\\automations\\dashboard\\automations-filtered-empty-state',
++   'src\\components\\features\\automations\\setup\\automation-setup-agent-request',
++   'src\\components\\features\\automations\\setup\\automation-setup-draft-service',
++   'src\\components\\features\\backends\\backend-form-modal',
++   'src\\components\\features\\backends\\backend-status-dot',
++   'src\\components\\features\\backends\\managed-agents\\digitalocean-connect-panel',
++   'src\\components\\features\\backends\\backend-status-label',
++   'src\\components\\features\\backends\\device-flow-auth',
++   'src\\components\\features\\backends\\use-backend-switch-redirect',
++   'src\\components\\features\\backends\\backend-version',
++   'src\\components\\features\\backends\\add-backend-modal',
++   'src\\components\\features\\backends\\manage-backends-modal',
++   'src\\components\\features\\backends\\environment-switch-store',
++   'src\\components\\features\\backends\\backend-row',
++   'src\\components\\features\\backends\\managed-agents\\managed-agents-view',
++   'src\\components\\features\\backends\\managed-agents\\mars-backend-removal-modal',
++   'src\\components\\features\\backends\\managed-agents\\managed-agents-labels',
++   'src\\components\\features\\backends\\managed-agents\\sign-in-storage-note',
++   'src\\components\\features\\backends\\managed-agents\\digitalocean-new-agent-form',
++   'src\\components\\features\\backends\\managed-agents\\managed-agents-sign-in',
++   'src\\components\\features\\backends\\managed-agents\\session-status-dot',
++   'src\\components\\features\\backends\\managed-agents\\use-session-meta',
++   'src\\components\\features\\backends\\managed-agents\\account-bar',
++   'src\\components\\features\\backends\\managed-agents\\agent-group-section',
++   'src\\components\\features\\backends\\managed-agents\\managed-agents-session-row',
++   'src\\components\\features\\browser\\browser-chrome-bar',
++   'src\\components\\features\\canvas-extensions\\canvas-extension-icon',
++   'src\\components\\features\\chat\\got-it-button',
++   'src\\components\\features\\chat\\change-agent-context-menu',
++   'src\\components\\features\\context-menu\\context-menu-list-item',
++   'src\\components\\features\\context-menu\\context-menu-icon-text-with-description',
++   'src\\components\\features\\chat\\chat-layout',
++   'src\\components\\features\\chat\\task-startup-progress',
++   'src\\components\\features\\chat\\btw-messages',
++   'src\\components\\features\\chat\\goal-status-banner',
++   'src\\components\\features\\chat\\model-messages',
++   'src\\components\\features\\chat\\interactive-chat-box',
++   'src\\components\\features\\chat\\scroll-anchor',
++   'src\\components\\features\\chat\\chat-markdown-path-code',
++   'src\\components\\features\\chat\\chat-suggestions',
++   'src\\components\\features\\chat\\chat-messages-skeleton',
++   'src\\components\\features\\chat\\error-message-banner',
++   'src\\components\\features\\chat\\connection-recovery-notice',
++   'src\\components\\features\\chat\\skill-install-restart-banner',
++   'src\\components\\features\\chat\\resolved-conversation-banner',
++   'src\\components\\features\\chat\\pending-user-messages',
++   'src\\components\\features\\chat\\confirmation-mode-enabled',
++   'src\\components\\features\\chat\\chat-status-indicator',
++   'src\\components\\features\\chat\\components\\resolve-picker-kind',
++   'src\\components\\features\\chat\\utils\\chat-input.utils',
++   'src\\components\\features\\markdown\\code',
++   'src\\components\\features\\markdown\\anchor',
++   'src\\components\\features\\chat\\message-timestamp',
++   'src\\components\\features\\chat\\pending-stop-icon',
++   'src\\components\\features\\chat\\row-expansion-context',
++   'src\\components\\features\\chat\\user-message-body',
++   'src\\components\\features\\chat\\change-agent-button',
++   'src\\components\\features\\chat\\components\\chat-input-profile-picker',
++   'src\\components\\features\\chat\\components\\chat-input-model',
++   'src\\components\\features\\chat\\components\\chat-input-llm-profile-picker',
++   'src\\components\\features\\chat\\chat-add-file-button',
++   'src\\components\\features\\chat\\chat-send-button',
++   'src\\components\\features\\chat\\chat-dictation-button',
++   'src\\components\\features\\chat\\components\\context-window-meter',
++   'src\\components\\features\\controls\\tools-context-menu-icon-text',
++   'src\\components\\features\\chat\\drag-over',
++   'src\\components\\features\\chat\\uploaded-files',
++   'src\\components\\features\\chat\\components\\chat-input-row',
++   'src\\components\\features\\chat\\components\\chat-input-actions',
++   'src\\components\\features\\chat\\components\\slash-command-menu',
++   'src\\components\\features\\chat\\components\\chat-input-field',
++   'src\\components\\features\\chat\\components\\context-window-ring',
++   'src\\components\\features\\conversation\\conversation-overview-drawer-context',
++   'src\\components\\features\\chat\\conversation-startup-progress',
++   'src\\components\\features\\chat\\components\\chat-input-grip',
++   'src\\components\\features\\chat\\components\\chat-input-container',
++   'src\\components\\features\\chat\\components\\hidden-file-input',
++   'src\\components\\features\\chat\\success-indicator',
++   'src\\components\\features\\chat\\git-external-link-icon',
++   'src\\components\\features\\chat\\git-control-bar-repo-button',
++   'src\\components\\features\\chat\\git-control-bar-branch-button',
++   'src\\components\\features\\chat\\git-control-bar-pull-button',
++   'src\\components\\features\\chat\\git-control-bar-push-button',
++   'src\\components\\features\\chat\\git-control-bar-pr-button',
++   'src\\components\\features\\chat\\git-control-bar-tooltip-wrapper',
++   'src\\components\\features\\chat\\open-repository-modal',
++   'src\\components\\features\\chat\\goal-status-content',
++   'src\\components\\features\\chat\\custom-chat-input',
++   'src\\components\\features\\chat\\git-control-bar',
++   'src\\components\\features\\chat\\tool-visualizers\\define',
++   'src\\components\\features\\chat\\tool-visualizers\\text-content',
++   'src\\components\\features\\chat\\tool-visualizers\\primitives\\code-block',
++   'src\\components\\features\\chat\\tool-visualizers\\primitives\\output-pane',
++   'src\\components\\features\\chat\\tool-visualizers\\index',
++   'src\\components\\features\\chat\\tool-visualizers\\primitives\\diff-view',
++   'src\\components\\features\\chat\\tool-visualizers\\primitives\\file-path-chip',
++   'src\\components\\features\\chat\\tool-visualizers\\primitives\\markdown-file-preview',
++   'src\\components\\features\\chat\\tool-visualizers\\bash\\bash',
++   'src\\components\\features\\chat\\tool-visualizers\\file-editor\\file-editor',
++   'src\\components\\features\\chat\\tool-visualizers\\search\\search',
++   'src\\components\\features\\chat\\tool-visualizers\\task\\task',
++   'src\\components\\features\\markdown\\syntax-highlighter',
++   'src\\components\\features\\chat\\tool-visualizers\\primitives\\key-value-grid',
++   'src\\components\\features\\chat\\remove-file-button',
++   'src\\components\\features\\chat\\uploaded-file',
++   'src\\components\\features\\chat\\uploaded-image',
++   'src\\components\\features\\chat\\pasted-image-upload-as-file-button',
++   'src\\components\\features\\chat\\workspace-mode-icon',
++   'src\\components\\features\\command-menu\\command-menu-items',
++   'src\\components\\features\\context-menu\\context-menu-icon-text',
++   'src\\components\\features\\chat\\chat-stop-button',
++   'src\\components\\features\\chat\\chat-play-button',
++   'src\\components\\features\\controls\\agent-loading',
++   'src\\components\\features\\controls\\server-status-context-menu-icon-text',
++   'src\\components\\features\\controls\\server-status',
++   'src\\components\\features\\controls\\git-tools-submenu',
++   'src\\components\\features\\controls\\macros-submenu',
++   'src\\components\\features\\context-menu\\archived-disabled-tooltip',
++   'src\\components\\features\\chat\\chat-action-tooltip',
++   'src\\components\\features\\conversation\\conversation-git-actions-menu',
++   'src\\components\\features\\conversation\\conversation-overview-panel',
++   'src\\components\\features\\conversation\\conversation-overview-panel.constants',
++   'src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\conversation-tab-content',
++   'src\\components\\ui\\resize-handle',
++   'src\\components\\features\\conversation\\conversation-overview-drawer',
++   'src\\components\\features\\conversation\\conversation-tabs\\conversation-planner-build-bar',
++   'src\\components\\features\\conversation\\conversation-name-context-menu-icon-text',
++   'src\\components\\features\\controls\\server-status-context-menu',
++   'src\\components\\features\\conversation\\conversation-git-actions-toggle',
++   'src\\components\\features\\conversation\\conversation-overview-toggle',
++   'src\\components\\features\\conversation\\right-panel-toggle',
++   'src\\components\\features\\conversation\\conversation-title-text',
++   'src\\components\\features\\conversation-panel\\ellipsis-button',
++   'src\\components\\features\\conversation\\conversation-name-context-menu',
++   'src\\components\\features\\conversation-panel\\system-message-modal',
++   'src\\components\\features\\conversation-panel\\skills-modal',
++   'src\\components\\features\\conversation-panel\\hooks-modal',
++   'src\\components\\features\\conversation-panel\\confirm-delete-modal',
++   'src\\components\\features\\conversation-panel\\confirm-stop-modal',
++   'src\\components\\features\\conversation\\transcript-export-modal',
++   'src\\components\\features\\conversation\\conversation-overview-drawer.types',
++   'src\\components\\features\\conversation\\conversation-overview-sections',
++   'src\\components\\features\\conversation\\conversation-overview-git-items-panel',
++   'src\\components\\features\\conversation\\conversation-secondary-drawer.classes',
++   'src\\components\\features\\conversation\\conversation-overview-drawer-content',
++   'src\\components\\features\\conversation\\conversation-overview-drawer.constants',
++   'src\\components\\features\\conversation\\conversation-overview-diffs-row',
++   'src\\components\\features\\conversation\\conversation-overview-context-menu',
++   'src\\components\\features\\conversation\\conversation-overview-git-section',
++   'src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\tab-ready-notifier',
++   'src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\suspense-pending-fallback',
++   'src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\tab-wrapper',
++   'src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\tab-container',
++   'src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\tab-content-area',
++   'src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\conversation-tab-content-crossfade',
++   'src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-ids',
++   'src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-nav',
++   'src\\components\\features\\conversation\\conversation-tabs\\drawer-vscode-link',
++   'src\\components\\features\\conversation\\conversation-tabs\\conversation-tabs-context-menu',
++   'src\\components\\features\\conversation-panel\\budget-display',
++   'src\\components\\features\\conversation\\metrics-modal\\metric-row',
++   'src\\components\\features\\conversation\\usage-panel\\context-meter',
++   'src\\components\\features\\conversation\\metrics-modal\\cost-section',
++   'src\\components\\features\\conversation\\metrics-modal\\usage-section',
++   'src\\components\\features\\conversation\\usage-panel\\compact-context-button',
++   'src\\components\\features\\conversation\\usage-panel\\provider-balance-card',
++   'src\\components\\features\\conversation-panel\\menu-heading',
++   'src\\components\\features\\conversation-panel\\menu-separator',
++   'src\\components\\features\\conversation-panel\\menu-row',
++   'src\\components\\features\\conversation-panel\\hide-older-conversations-row',
++   'src\\components\\features\\conversation-panel\\conversation-panel-list-helpers',
++   'src\\components\\features\\conversation-panel\\budget-progress-bar',
++   'src\\components\\features\\conversation-panel\\budget-usage-text',
++   'src\\components\\features\\conversation-panel\\new-conversation-dropdown-styles',
++   'src\\components\\features\\conversation-panel\\conversation-status-dot',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-footer',
++   'src\\components\\features\\settings\\brand-button',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-context-menu',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-repo-link',
++   'src\\components\\features\\conversation-panel\\conversation-card\\no-repository',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-tag-chips',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-meta-chip',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-title',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-tag-display',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-tag-icons',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-header',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-actions',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-status-badges',
++   'src\\components\\features\\conversation-panel\\conversation-group-folder-row',
++   'src\\components\\features\\conversation-panel\\advanced-conversation-options-modal',
++   'src\\components\\features\\conversation-panel\\local-new-conversation-menu',
++   'src\\components\\features\\conversation-panel\\cloud-new-conversation-menu',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-card',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-preview',
++   'src\\components\\features\\conversation-panel\\confirm-archive-modal',
++   'src\\components\\features\\conversation-panel\\exit-conversation-modal',
++   'src\\components\\features\\conversation-panel\\edit-conversation-tags-modal',
++   'src\\components\\features\\conversation-panel\\conversation-panel-row',
++   'src\\components\\features\\conversation-panel\\start-task-card\\start-task-card',
++   'src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-skeleton',
++   'src\\components\\features\\conversation-panel\\compact-conversation-row',
++   'src\\components\\features\\conversation-panel\\conversation-layouts-menu',
++   'src\\components\\features\\conversation-panel\\conversation-active-tag-filters',
++   'src\\components\\features\\conversation-panel\\conversation-panel-new-thread-picker',
++   'src\\components\\features\\conversation-panel\\conversation-group-folder-list',
++   'src\\components\\features\\conversation-panel\\conversation-panel-pinned-section',
++   'src\\components\\features\\conversation-panel\\hook-matcher-content',
++   'src\\components\\features\\conversation-panel\\hooks-modal-header',
++   'src\\components\\features\\conversation-panel\\hooks-loading-state',
++   'src\\components\\features\\conversation-panel\\hooks-empty-state',
++   'src\\components\\features\\conversation-panel\\hook-event-item',
++   'src\\components\\features\\conversation-panel\\runtime-waiting-state',
++   'src\\components\\features\\conversation-panel\\skill-triggers',
++   'src\\components\\features\\conversation-panel\\skill-content',
++   'src\\components\\features\\conversation-panel\\skills-modal-header',
++   'src\\components\\features\\conversation-panel\\skills-modal-section',
++   'src\\components\\features\\conversation-panel\\skills-loading-state',
++   'src\\components\\features\\conversation-panel\\skills-empty-state',
++   'src\\components\\features\\conversation-panel\\skill-item',
++   'src\\components\\features\\conversation-panel\\system-message-modal\\system-message-content',
++   'src\\components\\features\\conversation-panel\\system-message-modal\\tools-list',
++   'src\\components\\features\\conversation-panel\\system-message-modal\\empty-tools-state',
++   'src\\components\\features\\conversation-panel\\system-message-modal\\tab-button',
++   'src\\components\\features\\conversation-panel\\system-message-modal\\tool-parameters',
++   'src\\components\\features\\conversation-panel\\system-message-modal\\toggle-button',
++   'src\\components\\features\\conversation-panel\\system-message-modal\\tool-item',
++   'src\\components\\features\\conversation-panel\\system-message-modal\\system-message-header',
++   'src\\components\\features\\conversation-panel\\system-message-modal\\tab-navigation',
++   'src\\components\\features\\conversation-panel\\system-message-modal\\tab-content',
++   'src\\components\\features\\diff-viewer\\commit-row',
++   'src\\components\\features\\diff-viewer\\uncommitted-changes-row',
++   'src\\components\\features\\diff-viewer\\diff-change-list',
++   'src\\components\\features\\diff-viewer\\accordion-panel',
++   'src\\components\\features\\diff-viewer\\loading-spinner',
++   'src\\components\\features\\diff-viewer\\file-diff-viewer',
++   'src\\components\\features\\diff-viewer\\editor-container',
++   'src\\components\\features\\files\\file-item',
++   'src\\components\\features\\files-tab\\highlighted-source-view',
++   'src\\components\\features\\files-tab\\view-mode',
++   'src\\components\\features\\files-tab\\tree-node',
++   'src\\components\\features\\hands\\graph\\graph-format',
++   'src\\components\\features\\hands\\graph\\graph-model',
++   'src\\components\\features\\hands\\graph\\graph-labels',
++   'src\\components\\features\\hands\\graph\\duration-label',
++   'src\\components\\features\\hands\\sessions\\session-row',
++   'src\\components\\features\\hands\\graph\\execution-graph',
++   'src\\components\\features\\hands\\graph\\graph-node-panel',
++   'src\\components\\features\\hands\\linear\\linear-filters',
++   'src\\components\\features\\hands\\linear\\linear-model',
++   'src\\components\\features\\hands\\linear\\linear-issue-list',
++   'src\\components\\features\\hands\\linear\\linear-issue-detail',
++   'src\\components\\features\\hands\\linear\\linear-drag',
++   'src\\components\\features\\hands\\linear\\use-linear-issue-actions',
++   'src\\components\\features\\hands\\linear\\linear-issue-card',
++   'src\\components\\features\\hands\\linear\\linear-inbox',
++   'src\\components\\features\\hands\\linear\\linear-link-repository-dialog',
++   'src\\components\\features\\hands\\linear\\linear-cancel-execution-dialog',
++   'src\\components\\features\\hands\\review\\review-states',
++   'src\\components\\features\\hands\\review\\review-file-list',
++   'src\\components\\features\\hands\\review\\review-evidence',
++   'src\\components\\features\\hands\\review\\review-reviews-list',
++   'src\\components\\features\\hands\\sessions\\session-labels',
++   'src\\components\\features\\hands\\sessions\\session-model',
++   'src\\components\\features\\hands\\sessions\\session-state-badge',
++   'src\\components\\features\\hands\\sessions\\session-time',
++   'src\\components\\features\\hands\\sessions\\tab-list',
++   'src\\components\\features\\hands\\settings\\ci\\ci-settings-model',
++   'src\\components\\features\\hands\\settings\\ci\\hands-settings-form-ui',
++   'src\\components\\features\\hands\\settings\\ci\\auto-fix-mode-group',
++   'src\\components\\features\\hands\\settings\\ci\\watched-repos-editor',
++   'src\\components\\features\\hands\\settings\\ci\\hands-settings-gate',
++   'src\\components\\features\\hands\\settings\\ci\\ci-settings-form',
++   'src\\components\\features\\hands\\settings\\ci\\ci-watch-table',
++   'src\\components\\features\\hands\\settings\\shared\\hands-settings-states',
++   'src\\components\\features\\hands\\settings\\shared\\hands-format',
++   'src\\components\\features\\hands\\settings\\connections\\connection-card',
++   'src\\components\\features\\hands\\settings\\connections\\browser-connection-card',
++   'src\\components\\features\\hands\\settings\\connections\\connection-extras',
++   'src\\components\\features\\hands\\settings\\linear\\linear-team-state-select',
++   'src\\components\\features\\hands\\settings\\linear\\linear-repo-mappings',
++   'src\\components\\features\\hands\\settings\\models-roles\\role-card',
++   'src\\components\\features\\hands\\settings\\models-roles\\role-model',
++   'src\\components\\features\\hands\\settings\\skills\\bossku-doctor-panel',
++   'src\\components\\features\\hands\\settings\\skills\\skill-tester',
++   'src\\components\\features\\hands\\settings\\workflow\\outcomes-card',
++   'src\\components\\features\\hands\\settings\\workflow\\use-hands-metrics',
++   'src\\components\\features\\home\\featured-automations\\automation-run-health',
++   'src\\components\\features\\home\\featured-automations\\automation-run-activity-metrics',
++   'src\\components\\features\\home\\featured-automations\\build-home-automation-menu-items',
++   'src\\components\\features\\home\\featured-automations\\automation-health-indicator',
++   'src\\components\\features\\home\\featured-automations\\automation-run-activity-sparkline',
++   'src\\components\\features\\home\\featured-automations\\build-pinned-automation-menu-items',
++   'src\\components\\features\\home\\featured-automations\\home-automation-menu',
++   'src\\components\\features\\home\\featured-automations\\pinned-automation-card',
++   'src\\components\\features\\home\\featured-automations\\home-automation-activity',
++   'src\\components\\features\\home\\featured-automations\\home-automation-run-tooltip',
++   'src\\components\\features\\home\\shared\\dropdown-item',
++   'src\\components\\features\\home\\shared',
++   'src\\components\\features\\home\\shared\\clear-button',
++   'src\\components\\features\\home\\shared\\toggle-button',
++   'src\\components\\features\\home\\shared\\error-message',
++   'src\\components\\features\\home\\git-branch-dropdown\\branch-dropdown-menu',
++   'src\\components\\features\\home\\git-branch-dropdown\\git-branch-dropdown',
++   'src\\components\\features\\home\\shared\\generic-dropdown-menu',
++   'src\\components\\features\\home\\shared\\loading-spinner',
++   'src\\components\\features\\home\\shared\\empty-state',
++   'src\\components\\features\\home\\git-provider-dropdown\\git-provider-dropdown',
++   'src\\components\\features\\home\\git-repo-dropdown\\use-url-search',
++   'src\\components\\features\\home\\git-repo-dropdown\\use-repository-data',
++   'src\\components\\features\\home\\git-repo-dropdown\\git-repo-dropdown',
++   'src\\components\\features\\home\\use-home-recommended-automations-dismissed',
++   'src\\components\\features\\home\\home-recommended-automations-storage',
++   'src\\components\\features\\home\\featured-automations\\pinned-automations-dashboard',
++   'src\\components\\features\\home\\featured-automations\\running-automations-list',
++   'src\\components\\features\\home\\home-header\\home-header-title',
++   'src\\components\\features\\home\\home-launcher-mode-toggle',
++   'src\\components\\features\\home\\open-launcher-button',
++   'src\\components\\features\\home\\open-workspace-dialog',
++   'src\\components\\features\\home\\open-repository-dialog',
++   'src\\components\\features\\home\\home-git-control-bar-preview',
++   'src\\components\\features\\home\\home-recommended-automations.constants',
++   'src\\components\\features\\home\\repo-selection-form',
++   'src\\components\\features\\home\\workspace-selection-form',
++   'src\\components\\features\\home\\git-provider-dropdown',
++   'src\\components\\features\\home\\git-branch-dropdown',
++   'src\\components\\features\\home\\git-repo-dropdown',
++   'src\\components\\features\\home\\workspace-dropdown\\workspace-dropdown',
++   'src\\components\\features\\home\\workspace-dropdown\\folder-browser-modal',
++   'src\\components\\features\\home\\workspace-dropdown\\manage-workspaces-modal',
++   'src\\components\\features\\images\\image-preview',
++   'src\\components\\features\\images\\image-lightbox',
++   'src\\components\\features\\images\\thumbnail',
++   'src\\components\\features\\launch\\plugin-launch-plugin-section',
++   'src\\components\\features\\launch\\plugin-launch-parameter-input',
++   'src\\components\\features\\manifest\\manifest-repository-list',
++   'src\\components\\features\\manifest\\manifest-form-field',
++   'src\\components\\features\\manifest\\manifest-prerequisites-step',
++   'src\\components\\features\\manifest\\manifest-review-step',
++   'src\\components\\features\\markdown\\remark-github-alerts',
++   'src\\components\\features\\markdown\\mermaid-diagram',
++   'src\\components\\features\\markdown\\list',
++   'src\\components\\features\\markdown\\paragraph',
++   'src\\components\\features\\markdown\\headings',
++   'src\\components\\features\\markdown\\table',
++   'src\\components\\features\\markdown\\blockquote',
++   'src\\components\\features\\markdown\\horizontal-rule',
++   'src\\components\\features\\markdown\\rehype-fade-in-words',
++   'src\\components\\features\\markdown\\markdown-table-scroll',
++   'src\\components\\features\\mcp-page\\installed-servers-section',
++   'src\\components\\features\\mcp-page\\installed-server-card',
++   'src\\components\\features\\mcp-page\\marketplace-section',
++   'src\\components\\features\\mcp-page\\marketplace-card',
++   'src\\components\\features\\mcp-page\\install-server-modal',
++   'src\\components\\features\\mcp-page\\save-as-secret-toggle',
++   'src\\components\\features\\mcp-page\\custom-server-editor',
++   'src\\components\\features\\mcp-page\\mcp-toolbar',
++   'src\\components\\features\\mcp-page\\mcp-managed-in-settings',
++   'src\\components\\features\\mcp-page\\mcp-section-filter',
++   'src\\components\\features\\mcp-page\\mcp-server-health',
++   'src\\components\\features\\mcp-page\\mcp-section-filter-dropdown',
++   'src\\components\\features\\onboarding\\onboarding-modal',
++   'src\\components\\features\\onboarding\\onboarding-host',
++   'src\\components\\features\\onboarding\\onboarding-progress-bar',
++   'src\\components\\features\\onboarding\\use-onboarding-completion',
++   'src\\components\\features\\onboarding\\onboarding-preview',
++   'src\\components\\features\\onboarding\\steps\\choose-agent-step',
++   'src\\components\\features\\onboarding\\steps\\check-backend-step',
++   'src\\components\\features\\onboarding\\steps\\setup-llm-step',
++   'src\\components\\features\\onboarding\\steps\\setup-acp-secrets-step',
++   'src\\components\\features\\onboarding\\steps\\say-hello-step',
++   'src\\components\\features\\plugins\\build-plugins-view-model',
++   'src\\components\\features\\plugins\\plugin-files-section',
++   'src\\components\\features\\plugins\\plugin-picker',
++   'src\\components\\features\\plugins\\plugin-picker-card',
++   'src\\components\\features\\plugins\\plugin-spec-identity',
++   'src\\components\\features\\settings\\agent-canvas-version-modal',
++   'src\\components\\features\\settings\\agent-profiles\\agent-profile-actions-menu',
++   'src\\components\\features\\settings\\agent-profiles\\agent-profile-row',
++   'src\\components\\features\\settings\\agent-profiles\\agent-profiles-manager',
++   'src\\components\\features\\settings\\agent-profiles\\merge-agent-profile-save-input',
++   'src\\components\\features\\settings\\agent-profiles\\new-profile-seed',
++   'src\\components\\features\\settings\\agent-profiles\\agent-profiles-body',
++   'src\\components\\features\\settings\\agent-profiles\\delete-agent-profile-modal',
++   'src\\components\\features\\settings\\agent-profiles\\agent-profiles-local-view',
++   'src\\components\\features\\settings\\input-skeleton',
++   'src\\components\\features\\settings\\switch-skeleton',
++   'src\\components\\features\\settings\\settings-dropdown-input',
++   'src\\components\\features\\settings\\upgrade-banner',
++   'src\\components\\features\\settings\\upgrade-button',
++   'src\\components\\features\\settings\\banner-message',
++   'src\\components\\features\\settings\\mobile-header',
++   'src\\components\\features\\settings\\settings-navigation',
++   'src\\components\\features\\settings\\settings-layout',
++   'src\\components\\features\\settings\\llm-profiles\\llm-profiles-manager',
++   'src\\components\\features\\settings\\llm-profiles\\llm-settings-local-view',
++   'src\\components\\features\\settings\\llm-profiles\\profiles-body',
++   'src\\components\\features\\settings\\llm-profiles\\profile-row',
++   'src\\components\\features\\settings\\llm-profiles\\profile-actions-menu',
++   'src\\components\\features\\settings\\llm-profiles\\rename-profile-modal',
++   'src\\components\\features\\settings\\llm-profiles\\delete-profile-modal',
++   'src\\components\\features\\settings\\llm-profiles\\profile-name-input',
++   'src\\components\\features\\settings\\llm-profiles\\add-models-modal',
++   'src\\components\\features\\settings\\llm-profiles\\provider-connections-manager',
++   'src\\components\\features\\settings\\sdk-settings\\sdk-section-page',
++   'src\\components\\features\\settings\\llm-profiles\\llm-profile-form',
++   'src\\components\\features\\settings\\llm-profiles\\profile-actions-menu-item',
++   'src\\components\\features\\settings\\llm-profiles\\provider-connection-actions-menu',
++   'src\\components\\features\\settings\\llm-profiles\\provider-connection-row',
++   'src\\components\\features\\settings\\llm-profiles\\provider-connection-modal',
++   'src\\components\\features\\settings\\llm-profiles\\delete-provider-connection-modal',
++   'src\\components\\features\\settings\\subtext-skeleton',
++   'src\\components\\features\\settings\\settings-input',
++   'src\\components\\features\\settings\\optional-tag',
++   'src\\components\\features\\settings\\meta-llm-profiles\\meta-llm-settings-view',
++   'src\\components\\features\\settings\\meta-llm-profiles\\meta-profile-editor',
++   'src\\components\\features\\settings\\meta-llm-profiles\\meta-profile-row',
++   'src\\components\\features\\settings\\meta-llm-profiles\\meta-profile-actions-menu',
++   'src\\components\\features\\settings\\meta-llm-profiles\\delete-meta-profile-modal',
++   'src\\components\\features\\settings\\meta-llm-profiles\\default-meta-profile',
++   'src\\components\\features\\settings\\meta-llm-profiles\\router-profiles',
++   'src\\components\\features\\settings\\sdk-settings\\field-help',
++   'src\\components\\features\\settings\\sdk-settings\\schema-field',
++   'src\\components\\features\\settings\\sdk-settings\\view-toggle',
++   'src\\components\\features\\settings\\settings-desktop-sidebar',
++   'src\\components\\features\\settings\\settings-nav-header',
++   'src\\components\\features\\settings\\settings-nav-divider',
++   'src\\components\\features\\settings\\settings-nav-link',
++   'src\\components\\features\\settings\\settings-mobile-drawer',
++   'src\\components\\features\\setup-guide\\super-admin-setup-guide.constants',
++   'src\\components\\features\\setup-guide\\super-admin-setup-step-event',
++   'src\\components\\features\\setup-guide\\tour\\setup-guide-tour',
++   'src\\components\\features\\setup-guide\\tour\\tour-engine',
++   'src\\components\\features\\setup-guide\\use-super-admin-setup-guide',
++   'src\\components\\features\\setup-guide\\tour\\tour-types',
++   'src\\components\\features\\sidebar\\sidebar-layout',
++   'src\\components\\features\\sidebar\\mars-session-panel',
++   'src\\components\\features\\sidebar\\sidebar-mobile-menu-toggle',
++   'src\\components\\features\\sidebar\\sidebar-mobile-nav-context',
++   'src\\components\\features\\sidebar\\sidebar-collapsed-icon-slot',
++   'src\\components\\features\\sidebar\\sidebar-onboarding-checklist.constants',
++   'src\\components\\features\\sidebar\\sidebar-onboarding-checklist-item-icon',
++   'src\\components\\features\\sidebar\\sidebar-onboarding-checklist-item-preview',
++   'src\\components\\features\\sidebar\\use-sidebar-onboarding-checklist',
++   'src\\components\\features\\sidebar\\sidebar-nav-link',
++   'src\\components\\features\\sidebar\\sidebar-conversation-list',
++   'src\\components\\features\\sidebar\\sidebar-onboarding-checklist',
++   'src\\components\\features\\sidebar\\sidebar-rail-body',
++   'src\\components\\features\\sidebar\\sidebar-onboarding-checklist-storage',
++   'src\\components\\features\\sidebar\\sidebar-onboarding-checklist-llm-complete',
++   'src\\components\\features\\sidebar\\avatar',
++   'src\\components\\features\\skills\\skill-type-badge',
++   'src\\components\\features\\skills\\skill-card-pill-row',
++   'src\\components\\features\\skills\\extensions-navigation',
++   'src\\components\\features\\skills\\skill-icon-badge',
++   'src\\components\\features\\skills\\get-skill-card-description',
++   'src\\components\\features\\skills\\build-skill-pills',
++   'src\\components\\features\\skills\\is-copyable-skill-source',
++   'src\\components\\features\\skills\\get-skill-chat-launch-message',
++   'src\\components\\features\\skills\\skill-facet-row',
++   'src\\components\\features\\skills\\skill-filter',
++   'src\\components\\features\\skills\\skill-facet-rail',
++   'src\\components\\features\\suggestions\\suggestion-item',
++   'src\\components\\features\\chat\\waiting-for-runtime-message',
++   'src\\components\\features\\terminal\\empty-terminal-message',
++   'src\\components\\features\\files\\file-list',
++   'src\\components\\providers\\telemetry-provider',
++   'src\\components\\providers\\agent-server-ui-root',
++   'src\\components\\providers\\agent-server-ui-providers',
++   'src\\components\\features\\backends\\cloud-organization-boundary',
++   'src\\components\\features\\settings',
++   'src\\routes\\app-settings',
++   'src\\routes\\llm-settings',
++   'src\\routes\\mcp-settings',
++   'src\\routes\\secrets-settings',
++   'src\\components\\shared\\buttons\\styled-tooltip',
++   'src\\components\\shared\\buttons\\back-nav-button-content',
++   'src\\components\\shared\\action-tooltip',
++   'src\\components\\shared\\buttons\\copy-to-clipboard-button',
++   'src\\components\\shared\\modals\\modal-backdrop',
++   'src\\components\\shared\\modals\\modal-body',
++   'src\\components\\shared\\buttons\\modal-button',
++   'src\\components\\shared\\modals\\confirmation-modals\\base-modal',
++   'src\\components\\shared\\modals\\use-modal-focus',
++   'src\\components\\shared\\modals\\confirmation-modals\\danger-modal',
++   'src\\components\\shared\\modals\\settings\\model-selector',
++   'src\\components\\shared\\modals\\settings\\settings-form',
++   'src\\components\\features\\sidebar\\sidebar',
++   'src\\components\\features\\sidebar\\user-avatar',
++   'src\\components\\features\\conversation-panel\\conversation-panel',
++   'src\\components\\features\\conversation-panel\\conversation-panel-wrapper',
++   'src\\components\\features\\terminal\\terminal',
++   'src\\components\\providers',
++   'src\\api\\mars\\mars-web-bridge',
++   'src\\i18n',
++   'src\\mocks\\should-start-mock-worker',
++   'src\\utils\\base-path-url',
++   'src\\hooks\\chat\\use-draft-persistence',
++   'src\\hooks\\mutation\\conversation-mutation-utils',
++   'src\\hooks\\query\\use-settings',
++   'src\\hooks\\query\\query-keys',
++   'src\\hooks\\mutation\\acp-selection',
++   'src\\hooks\\mutation\\sync-agent-profiles',
++   'src\\hooks\\query\\conversation-history-query-options',
++   'src\\hooks\\query\\use-user-conversation',
++   'src\\hooks\\query\\use-is-authed',
++   'src\\hooks\\use-user-providers',
++   'src\\hooks\\query\\use-automation-detail',
++   'src\\hooks\\query\\use-cloud-sandbox',
++   'src\\hooks\\query\\use-repository-branches',
++   'src\\hooks\\query\\use-search-branches',
++   'src\\hooks\\query\\use-cloud-organizations',
++   'src\\hooks\\query\\persisted-history-query-options',
++   'src\\hooks\\use-conversation-id',
++   'src\\hooks\\query\\use-active-conversation',
++   'src\\hooks\\query\\use-verified-models',
++   'src\\hooks\\query\\use-app-installations',
++   'src\\types\\git',
++   'src\\types\\settings',
++   'src\\hooks\\query\\use-native-git-integrations',
++   'src\\hooks\\query\\use-cloud-integrations-config',
++   'src\\hooks\\query\\use-manifest-capabilities',
++   'src\\hooks\\query\\use-workspace-file-discovery',
++   'src\\hooks\\use-drag-resize',
++   'src\\hooks\\use-automation-permissions',
++   'src\\hooks\\query\\use-cloud-current-user-id',
++   'src\\hooks\\use-mars-tunnel-backend',
++   'src\\hooks\\mutation\\use-delete-conversation',
++   'src\\hooks\\mutation\\use-unified-stop-conversation',
++   'src\\hooks\\mutation\\use-update-conversation-public-flag',
++   'src\\hooks\\use-download-conversation',
++   'src\\hooks\\use-select-conversation-tab',
++   'src\\i18n\\resources',
++   'src\\i18n\\translation.json',
++   'src\\lib',
++   'src\\components\\browser',
++   'src\\components\\conversation',
++   'src\\components\\files',
++   'src\\components\\settings',
++   'src\\components\\sidebar',
++   'src\\components\\terminal',
++   'src\\query-client-config',
++   'src\\styles\\agent-server-ui-style-scope',
++   'src\\types\\canvas-extension',
++   'src\\hooks\\use-telemetry',
++   'src\\manifests\\types',
++   'src\\manifests\\interface-validation',
++   'src\\manifests\\manifest-sources',
++   'src\\manifests\\automation-interface',
++   'src\\manifests\\manifest-local-validation',
++   'src\\manifests\\manifest-template',
++   'src\\manifests\\automation-setup',
++   'src\\manifests\\manifest-bundle',
++   'src\\manifests\\manifest-validation',
++   'src\\manifests\\manifest-registry',
++   'src\\mocks\\automations.mock',
++   'src\\mocks\\automation-runs.mock',
++   'src\\mocks\\handlers',
++   'src\\mocks\\file-service-handlers',
++   'src\\mocks\\secrets-handlers',
++   'src\\mocks\\agent-profiles-handlers',
++   'src\\mocks\\git-repository-handlers',
++   'src\\mocks\\settings-handlers',
++   'src\\mocks\\conversation-handlers',
++   'src\\mocks\\auth-handlers',
++   'src\\mocks\\feedback-handlers',
++   'src\\mocks\\analytics-handlers',
++   'src\\mocks\\automation-handlers',
++   'src\\mocks\\mcp-handlers',
++   'src\\mocks\\workspaces-handlers',
++   'src\\mocks\\canvas-extensions-handlers',
++   'src\\i18n\\declaration',
++   'src\\utils\\retrieve-axios-error-message',
++   'src\\utils\\custom-toast-handlers',
++   'src\\utils\\rate-limit-retry',
++   'src\\utils\\transient-error-retry',
++   'src\\routes\\+types\\automation-setup-route',
++   'src\\wrapper\\event-handler',
++   'src\\routes\\home',
++   'src\\routes\\mcp',
++   'src\\routes\\react-router-navigation-provider',
++   'src\\routes\\+types\\settings',
++   'src\\services\\client-tool-result',
++   'src\\stores\\session-activity-store',
++   'src\\stores\\pending-task-attachments-store',
++   'src\\themes\\color-theme\\types',
++   'src\\themes\\color-theme\\definitions\\openhands-deepsea',
++   'src\\themes\\color-theme\\definitions\\openhands-neutral',
++   'src\\themes\\color-theme\\definitions\\openhands-neo',
++   'src\\themes\\color-theme\\definitions\\light-plus',
++   'src\\themes\\color-theme\\definitions\\solarized-light',
++   'src\\themes\\color-theme\\definitions\\paper',
++   'src\\themes\\color-theme\\palettes\\neutral',
++   'src\\themes\\color-theme\\definitions',
++   'src\\themes\\color-theme\\runtime',
++   'src\\themes\\color-themes',
++   'src\\types\\agent-server\\core\\base\\base',
++   'src\\types\\agent-server\\core\\base\\common',
++   'src\\types\\agent-server\\core\\base\\action',
++   'src\\types\\agent-server\\core\\base\\critic',
++   'src\\types\\agent-server\\core\\base\\event',
++   'src\\types\\agent-server\\core\\base\\observation',
++   'src\\types\\agent-server\\core\\events\\acp-tool-call-event',
++   'src\\types\\agent-server\\core\\events\\action-event',
++   'src\\types\\agent-server\\core\\events\\condensation-event',
++   'src\\types\\agent-server\\core\\events\\conversation-state-event',
++   'src\\types\\agent-server\\core\\events\\hook-execution-event',
++   'src\\types\\agent-server\\core\\events\\message-event',
++   'src\\types\\agent-server\\core\\events\\observation-event',
++   'src\\types\\agent-server\\core\\events\\pause-event',
++   'src\\types\\agent-server\\core\\events\\streaming-delta-event',
++   'src\\types\\agent-server\\core\\events\\system-event',
++   'src\\types\\agent-server\\core\\base',
++   'src\\types\\agent-server\\core\\events',
++   'src\\types\\agent-server\\core\\openhands-event',
++   'src\\types\\agent-server\\core\\events\\index',
++   'src\\types\\agent-server\\core',
++   'src\\types\\mcp-auth',
++   'src\\ui\\dropdown\\types',
++   'src\\ui\\dropdown\\loading-spinner',
++   'src\\ui\\dropdown\\clear-button',
++   'src\\ui\\dropdown\\toggle-button',
++   'src\\ui\\dropdown\\dropdown-menu',
++   'src\\ui\\dropdown\\dropdown-input',
++   'src\\utils\\path-utils',
++   'src\\utils\\toast-duration',
++   'src\\utils\\user-facing-error',
++   'src\\utils\\api-error-message',
++   'src\\utils\\mcp-config',
++   'src\\utils\\type-guards',
++   'src\\utils\\sdk-http-error',
++   'src\\utils\\suggestions\\non-repo-suggestions',
++   'src\\utils\\suggestions\\repo-suggestions',
++   'src\\hooks\\use-handle-ws-events',
++   'src\\hooks\\use-handle-runtime-active'
++ ]
+- []
+
+
+- Expected
++ Received
+
+- []
++ [
++   "src\\api\\agent-server-adapter",
++   "src\\api\\agent-server-client-options",
++   "src\\api\\backend-registry\\active-store",
++   "src\\api\\cloud\\agent-profiles-service.api",
++   "src\\api\\agent-server-compatibility",
++   "src\\api\\agent-server-config",
++   "src\\api\\backend-registry\\auth",
++   "src\\api\\conversation-service\\agent-server-conversation-service.types",
++   "src\\api\\agent-profiles-service\\profile-behavior",
++   "src\\api\\settings-service\\settings-service.api",
++   "src\\api\\conversation-metadata-store",
++   "src\\api\\llm-subscription-service",
++   "src\\api\\canvas-ui-client-tool",
++   "src\\api\\launch-child-conversation-client-tool",
++   "src\\api\\automation-form-client-tool",
++   "src\\api\\request-secret-client-tool",
++   "src\\api\\backend-registry\\types",
++   "config\\defaults.json",
++   "src\\api\\cloud\\proxy",
++   "src\\api\\client-source",
++   "src\\api\\backend-registry\\health-store",
++   "src\\api\\backend-registry\\storage",
++   "src\\api\\backend-registry\\url-selection",
++   "src\\api\\backend-registry\\health-storage",
++   "src\\api\\backend-registry\\default-backend",
++   "src\\api\\meta-profiles-service\\meta-profiles-service.api",
++   "src\\api\\cloud\\types",
++   "src\\api\\provider-connections-service\\provider-connections-service.api",
++   "src\\api\\cloud\\client",
++   "src\\api\\cloud\\organization-suspension-store",
++   "src\\api\\cloud\\sandbox-service.types",
++   "src\\api\\secrets-service.types",
++   "src\\api\\with-retry",
++   "src\\api\\config-service\\config-service.types",
++   "src\\api\\conversation-workspace",
++   "src\\api\\hooks-service",
++   "src\\api\\profiles-service\\profiles-service.api",
++   "src\\api\\cloud\\conversation-service.api",
++   "src\\api\\open-hands.types",
++   "src\\services\\telemetry",
++   "src\\api\\agent-server-home",
++   "src\\api\\event-service\\event-service.types",
++   "src\\api\\cloud\\git-service.api",
++   "src\\api\\hands\\hands-types",
++   "src\\api\\mars\\mars-tunnel-backend",
++   "src\\api\\mcp-health\\mcp-health-store",
++   "src\\api\\cloud\\mcp-service.api",
++   "src\\api\\mcp-service\\mcp-redacted-credentials",
++   "src\\api\\cloud\\meta-profiles-service.api",
++   "src\\api\\option-service\\option.types",
++   "src\\api\\plugins-service",
++   "src\\api\\cloud\\profiles-service.api",
++   "src\\api\\cloud\\provider-connections-service.api",
++   "src\\api\\cloud\\secrets-service.api",
++   "src\\api\\cloud\\settings-service.api",
++   "src\\api\\cloud\\skills-service.api",
++   "src\\components\\features\\browser\\browser",
++   "src\\components\\features\\browser\\browser-snapshot",
++   "src\\components\\features\\browser\\empty-browser-message",
++   "src\\routes\\conversation",
++   "src\\components\\features\\chat\\chat-interface",
++   "src\\components\\features\\conversation\\conversation-loading",
++   "src\\components\\features\\conversation\\conversation-main\\conversation-main",
++   "src\\components\\features\\conversation\\conversation-main\\chat-interface-wrapper",
++   "src\\components\\features\\conversation\\conversation-name",
++   "src\\components\\features\\conversation\\conversation-name-with-status",
++   "src\\components\\features\\conversation\\conversation-tabs\\conversation-tabs",
++   "src\\components\\conversation-events\\chat\\event-content-helpers\\get-skill-ready-content",
++   "src\\components\\conversation-events\\chat\\event-content-helpers\\shared",
++   "src\\components\\features\\chat\\mono-component",
++   "src\\components\\features\\chat\\path-component",
++   "src\\components\\conversation-events\\chat\\event-content-helpers\\get-action-content",
++   "src\\components\\conversation-events\\chat\\event-content-helpers\\get-observation-content",
++   "src\\components\\conversation-events\\chat\\event-content-helpers\\get-acp-tool-call-content",
++   "src\\components\\conversation-events\\chat\\task-tracking\\task-tracking-observation-content",
++   "src\\components\\conversation-events\\chat\\event-content-helpers\\create-skill-ready-event",
++   "src\\components\\features\\chat\\tool-visualizers\\dispatcher",
++   "src\\components\\conversation-events\\chat\\event-content-helpers\\get-action-event-title",
++   "src\\components\\conversation-events\\chat\\event-content-helpers\\get-observation-result",
++   "src\\components\\features\\markdown\\markdown-renderer",
++   "src\\components\\conversation-events\\chat\\event-content-helpers\\parse-message-from-event",
++   "src\\components\\features\\chat\\error-message",
++   "src\\components\\conversation-events\\chat\\event-thought-helpers",
++   "src\\components\\conversation-events\\chat\\event-message-components\\session-activity",
++   "src\\components\\conversation-events\\chat\\event-message-components\\event-group-summary",
++   "src\\components\\conversation-events\\chat\\event-content-helpers\\get-event-content",
++   "src\\components\\features\\chat\\is-in-event-group-context",
++   "src\\components\\features\\chat\\chat-message",
++   "src\\components\\conversation-events\\chat\\event-message-components\\critic-result-display",
++   "src\\components\\features\\chat\\generic-event-message",
++   "src\\components\\conversation-events\\chat\\event-content-helpers\\get-invoke-skill-items",
++   "src\\components\\conversation-events\\chat\\event-message-components\\skill-ready-content-list",
++   "src\\components\\conversation-events\\chat\\event-message-components\\collapsible-thinking",
++   "src\\components\\conversation-events\\chat\\event-message-components\\skill-item-expanded",
++   "src\\components\\features\\images\\image-carousel",
++   "src\\components\\features\\chat\\plan-preview",
++   "src\\components\\conversation-events\\chat\\event-message-components\\error-event-message",
++   "src\\components\\conversation-events\\chat\\event-message-components\\user-assistant-event-message",
++   "src\\components\\conversation-events\\chat\\event-message-components\\finish-event-message",
++   "src\\components\\conversation-events\\chat\\event-message-components\\generic-event-message-wrapper",
++   "src\\components\\conversation-events\\chat\\event-message-components\\thought-event-message",
++   "src\\components\\conversation-events\\chat\\event-message-components\\hook-execution-event-message",
++   "src\\components\\conversation-events\\chat\\event-message-components\\corrective-nudge-message",
++   "src\\components\\conversation-events\\chat\\event-content-helpers\\should-render-event",
++   "src\\components\\conversation-events\\chat\\hooks\\use-plan-preview-events",
++   "src\\components\\conversation-events\\chat\\step-disclosure-context",
++   "src\\components\\conversation-events\\chat\\event-message",
++   "src\\components\\conversation-events\\chat\\group-events",
++   "src\\components\\conversation-events\\chat\\event-message-components\\event-group",
++   "src\\components\\conversation-events\\chat\\scroll-anchoring",
++   "src\\components\\conversation-events\\chat\\task-tracking\\task-item",
++   "src\\components\\conversation-events\\chat\\task-tracking\\task-list-section",
++   "src\\components\\features\\automations\\kebab-menu-item-content",
++   "src\\components\\features\\automations\\kebab-menu",
++   "src\\components\\features\\automations\\build-automation-pills",
++   "src\\components\\features\\automations\\build-automation-menu-items",
++   "src\\components\\features\\automations\\automation-action-button-classes",
++   "src\\components\\features\\automations\\automation-run-insights",
++   "src\\components\\features\\automations\\automation-view-mode",
++   "src\\components\\features\\automations\\to-latest-run-state",
++   "src\\components\\features\\automations\\detail\\run-phase",
++   "src\\components\\features\\automations\\detail\\run-status-badge",
++   "src\\components\\features\\automations\\detail\\active-status-badge",
++   "src\\components\\features\\automations\\automation-card",
++   "src\\components\\features\\automations\\automation-list-row",
++   "src\\components\\features\\automations\\status-badge",
++   "src\\components\\features\\automations\\automation-tag-pill",
++   "src\\components\\features\\automations\\view-menu-item-content",
++   "src\\components\\features\\automations\\detail\\section-card",
++   "src\\components\\features\\automations\\detail\\config-field",
++   "src\\components\\features\\automations\\detail\\branch-badge",
++   "src\\components\\features\\automations\\detail\\plugin-chip",
++   "src\\components\\features\\automations\\detail\\prompt-section",
++   "src\\components\\features\\automations\\detail\\script-section",
++   "src\\components\\features\\automations\\detail\\run-logs-modal",
++   "src\\components\\features\\automations\\detail\\activity-log-item",
++   "src\\components\\features\\automations\\automation-page-header",
++   "src\\components\\features\\automations\\detail\\back-link",
++   "src\\components\\features\\automations\\detail\\debug-automation-button",
++   "src\\components\\features\\automations\\create-instructions",
++   "src\\components\\features\\automations\\recommended-automations-launcher",
++   "src\\components\\features\\automations\\git-sync\\git-sync-status-pill",
++   "src\\components\\features\\automations\\git-sync\\git-sync-activity-row",
++   "src\\components\\features\\automations\\built-in-integration-choice-modal",
++   "src\\components\\features\\automations\\provider-setup-notice-modal",
++   "src\\components\\features\\automations\\recommended-automations-rail",
++   "src\\components\\features\\automations\\recommended-automations-section",
++   "src\\components\\features\\automations\\responder-deployment-modal",
++   "src\\components\\features\\automations\\template-filter-chips",
++   "src\\components\\features\\automations\\dashboard\\automations-filtered-empty-state",
++   "src\\components\\features\\automations\\setup\\automation-setup-agent-request",
++   "src\\components\\features\\automations\\setup\\automation-setup-draft-service",
++   "src\\components\\features\\backends\\backend-form-modal",
++   "src\\components\\features\\backends\\backend-status-dot",
++   "src\\components\\features\\backends\\managed-agents\\digitalocean-connect-panel",
++   "src\\components\\features\\backends\\backend-status-label",
++   "src\\components\\features\\backends\\device-flow-auth",
++   "src\\components\\features\\backends\\use-backend-switch-redirect",
++   "src\\components\\features\\backends\\backend-version",
++   "src\\components\\features\\backends\\add-backend-modal",
++   "src\\components\\features\\backends\\manage-backends-modal",
++   "src\\components\\features\\backends\\environment-switch-store",
++   "src\\components\\features\\backends\\backend-row",
++   "src\\components\\features\\backends\\managed-agents\\managed-agents-view",
++   "src\\components\\features\\backends\\managed-agents\\mars-backend-removal-modal",
++   "src\\components\\features\\backends\\managed-agents\\managed-agents-labels",
++   "src\\components\\features\\backends\\managed-agents\\sign-in-storage-note",
++   "src\\components\\features\\backends\\managed-agents\\digitalocean-new-agent-form",
++   "src\\components\\features\\backends\\managed-agents\\managed-agents-sign-in",
++   "src\\components\\features\\backends\\managed-agents\\session-status-dot",
++   "src\\components\\features\\backends\\managed-agents\\use-session-meta",
++   "src\\components\\features\\backends\\managed-agents\\account-bar",
++   "src\\components\\features\\backends\\managed-agents\\agent-group-section",
++   "src\\components\\features\\backends\\managed-agents\\managed-agents-session-row",
++   "src\\components\\features\\browser\\browser-chrome-bar",
++   "src\\components\\features\\canvas-extensions\\canvas-extension-icon",
++   "src\\components\\features\\chat\\got-it-button",
++   "src\\components\\features\\chat\\change-agent-context-menu",
++   "src\\components\\features\\context-menu\\context-menu-list-item",
++   "src\\components\\features\\context-menu\\context-menu-icon-text-with-description",
++   "src\\components\\features\\chat\\chat-layout",
++   "src\\components\\features\\chat\\task-startup-progress",
++   "src\\components\\features\\chat\\btw-messages",
++   "src\\components\\features\\chat\\goal-status-banner",
++   "src\\components\\features\\chat\\model-messages",
++   "src\\components\\features\\chat\\interactive-chat-box",
++   "src\\components\\features\\chat\\scroll-anchor",
++   "src\\components\\features\\chat\\chat-markdown-path-code",
++   "src\\components\\features\\chat\\chat-suggestions",
++   "src\\components\\features\\chat\\chat-messages-skeleton",
++   "src\\components\\features\\chat\\error-message-banner",
++   "src\\components\\features\\chat\\connection-recovery-notice",
++   "src\\components\\features\\chat\\skill-install-restart-banner",
++   "src\\components\\features\\chat\\resolved-conversation-banner",
++   "src\\components\\features\\chat\\pending-user-messages",
++   "src\\components\\features\\chat\\confirmation-mode-enabled",
++   "src\\components\\features\\chat\\chat-status-indicator",
++   "src\\components\\features\\chat\\components\\resolve-picker-kind",
++   "src\\components\\features\\chat\\utils\\chat-input.utils",
++   "src\\components\\features\\markdown\\code",
++   "src\\components\\features\\markdown\\anchor",
++   "src\\components\\features\\chat\\message-timestamp",
++   "src\\components\\features\\chat\\pending-stop-icon",
++   "src\\components\\features\\chat\\row-expansion-context",
++   "src\\components\\features\\chat\\user-message-body",
++   "src\\components\\features\\chat\\change-agent-button",
++   "src\\components\\features\\chat\\components\\chat-input-profile-picker",
++   "src\\components\\features\\chat\\components\\chat-input-model",
++   "src\\components\\features\\chat\\components\\chat-input-llm-profile-picker",
++   "src\\components\\features\\chat\\chat-add-file-button",
++   "src\\components\\features\\chat\\chat-send-button",
++   "src\\components\\features\\chat\\chat-dictation-button",
++   "src\\components\\features\\chat\\components\\context-window-meter",
++   "src\\components\\features\\controls\\tools-context-menu-icon-text",
++   "src\\components\\features\\chat\\drag-over",
++   "src\\components\\features\\chat\\uploaded-files",
++   "src\\components\\features\\chat\\components\\chat-input-row",
++   "src\\components\\features\\chat\\components\\chat-input-actions",
++   "src\\components\\features\\chat\\components\\slash-command-menu",
++   "src\\components\\features\\chat\\components\\chat-input-field",
++   "src\\components\\features\\chat\\components\\context-window-ring",
++   "src\\components\\features\\conversation\\conversation-overview-drawer-context",
++   "src\\components\\features\\chat\\conversation-startup-progress",
++   "src\\components\\features\\chat\\components\\chat-input-grip",
++   "src\\components\\features\\chat\\components\\chat-input-container",
++   "src\\components\\features\\chat\\components\\hidden-file-input",
++   "src\\components\\features\\chat\\success-indicator",
++   "src\\components\\features\\chat\\git-external-link-icon",
++   "src\\components\\features\\chat\\git-control-bar-repo-button",
++   "src\\components\\features\\chat\\git-control-bar-branch-button",
++   "src\\components\\features\\chat\\git-control-bar-pull-button",
++   "src\\components\\features\\chat\\git-control-bar-push-button",
++   "src\\components\\features\\chat\\git-control-bar-pr-button",
++   "src\\components\\features\\chat\\git-control-bar-tooltip-wrapper",
++   "src\\components\\features\\chat\\open-repository-modal",
++   "src\\components\\features\\chat\\goal-status-content",
++   "src\\components\\features\\chat\\custom-chat-input",
++   "src\\components\\features\\chat\\git-control-bar",
++   "src\\components\\features\\chat\\tool-visualizers\\define",
++   "src\\components\\features\\chat\\tool-visualizers\\text-content",
++   "src\\components\\features\\chat\\tool-visualizers\\primitives\\code-block",
++   "src\\components\\features\\chat\\tool-visualizers\\primitives\\output-pane",
++   "src\\components\\features\\chat\\tool-visualizers\\index",
++   "src\\components\\features\\chat\\tool-visualizers\\primitives\\diff-view",
++   "src\\components\\features\\chat\\tool-visualizers\\primitives\\file-path-chip",
++   "src\\components\\features\\chat\\tool-visualizers\\primitives\\markdown-file-preview",
++   "src\\components\\features\\chat\\tool-visualizers\\bash\\bash",
++   "src\\components\\features\\chat\\tool-visualizers\\file-editor\\file-editor",
++   "src\\components\\features\\chat\\tool-visualizers\\search\\search",
++   "src\\components\\features\\chat\\tool-visualizers\\task\\task",
++   "src\\components\\features\\markdown\\syntax-highlighter",
++   "src\\components\\features\\chat\\tool-visualizers\\primitives\\key-value-grid",
++   "src\\components\\features\\chat\\remove-file-button",
++   "src\\components\\features\\chat\\uploaded-file",
++   "src\\components\\features\\chat\\uploaded-image",
++   "src\\components\\features\\chat\\pasted-image-upload-as-file-button",
++   "src\\components\\features\\chat\\workspace-mode-icon",
++   "src\\components\\features\\command-menu\\command-menu-items",
++   "src\\components\\features\\context-menu\\context-menu-icon-text",
++   "src\\components\\features\\chat\\chat-stop-button",
++   "src\\components\\features\\chat\\chat-play-button",
++   "src\\components\\features\\controls\\agent-loading",
++   "src\\components\\features\\controls\\server-status-context-menu-icon-text",
++   "src\\components\\features\\controls\\server-status",
++   "src\\components\\features\\controls\\git-tools-submenu",
++   "src\\components\\features\\controls\\macros-submenu",
++   "src\\components\\features\\context-menu\\archived-disabled-tooltip",
++   "src\\components\\features\\chat\\chat-action-tooltip",
++   "src\\components\\features\\conversation\\conversation-git-actions-menu",
++   "src\\components\\features\\conversation\\conversation-overview-panel",
++   "src\\components\\features\\conversation\\conversation-overview-panel.constants",
++   "src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\conversation-tab-content",
++   "src\\components\\ui\\resize-handle",
++   "src\\components\\features\\conversation\\conversation-overview-drawer",
++   "src\\components\\features\\conversation\\conversation-tabs\\conversation-planner-build-bar",
++   "src\\components\\features\\conversation\\conversation-name-context-menu-icon-text",
++   "src\\components\\features\\controls\\server-status-context-menu",
++   "src\\components\\features\\conversation\\conversation-git-actions-toggle",
++   "src\\components\\features\\conversation\\conversation-overview-toggle",
++   "src\\components\\features\\conversation\\right-panel-toggle",
++   "src\\components\\features\\conversation\\conversation-title-text",
++   "src\\components\\features\\conversation-panel\\ellipsis-button",
++   "src\\components\\features\\conversation\\conversation-name-context-menu",
++   "src\\components\\features\\conversation-panel\\system-message-modal",
++   "src\\components\\features\\conversation-panel\\skills-modal",
++   "src\\components\\features\\conversation-panel\\hooks-modal",
++   "src\\components\\features\\conversation-panel\\confirm-delete-modal",
++   "src\\components\\features\\conversation-panel\\confirm-stop-modal",
++   "src\\components\\features\\conversation\\transcript-export-modal",
++   "src\\components\\features\\conversation\\conversation-overview-drawer.types",
++   "src\\components\\features\\conversation\\conversation-overview-sections",
++   "src\\components\\features\\conversation\\conversation-overview-git-items-panel",
++   "src\\components\\features\\conversation\\conversation-secondary-drawer.classes",
++   "src\\components\\features\\conversation\\conversation-overview-drawer-content",
++   "src\\components\\features\\conversation\\conversation-overview-drawer.constants",
++   "src\\components\\features\\conversation\\conversation-overview-diffs-row",
++   "src\\components\\features\\conversation\\conversation-overview-context-menu",
++   "src\\components\\features\\conversation\\conversation-overview-git-section",
++   "src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\tab-ready-notifier",
++   "src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\suspense-pending-fallback",
++   "src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\tab-wrapper",
++   "src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\tab-container",
++   "src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\tab-content-area",
++   "src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-content\\conversation-tab-content-crossfade",
++   "src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-ids",
++   "src\\components\\features\\conversation\\conversation-tabs\\conversation-tab-nav",
++   "src\\components\\features\\conversation\\conversation-tabs\\drawer-vscode-link",
++   "src\\components\\features\\conversation\\conversation-tabs\\conversation-tabs-context-menu",
++   "src\\components\\features\\conversation-panel\\budget-display",
++   "src\\components\\features\\conversation\\metrics-modal\\metric-row",
++   "src\\components\\features\\conversation\\usage-panel\\context-meter",
++   "src\\components\\features\\conversation\\metrics-modal\\cost-section",
++   "src\\components\\features\\conversation\\metrics-modal\\usage-section",
++   "src\\components\\features\\conversation\\usage-panel\\compact-context-button",
++   "src\\components\\features\\conversation\\usage-panel\\provider-balance-card",
++   "src\\components\\features\\conversation-panel\\menu-heading",
++   "src\\components\\features\\conversation-panel\\menu-separator",
++   "src\\components\\features\\conversation-panel\\menu-row",
++   "src\\components\\features\\conversation-panel\\hide-older-conversations-row",
++   "src\\components\\features\\conversation-panel\\conversation-panel-list-helpers",
++   "src\\components\\features\\conversation-panel\\budget-progress-bar",
++   "src\\components\\features\\conversation-panel\\budget-usage-text",
++   "src\\components\\features\\conversation-panel\\new-conversation-dropdown-styles",
++   "src\\components\\features\\conversation-panel\\conversation-status-dot",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-footer",
++   "src\\components\\features\\settings\\brand-button",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-context-menu",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-repo-link",
++   "src\\components\\features\\conversation-panel\\conversation-card\\no-repository",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-tag-chips",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-meta-chip",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-title",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-tag-display",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-tag-icons",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-header",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-actions",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-status-badges",
++   "src\\components\\features\\conversation-panel\\conversation-group-folder-row",
++   "src\\components\\features\\conversation-panel\\advanced-conversation-options-modal",
++   "src\\components\\features\\conversation-panel\\local-new-conversation-menu",
++   "src\\components\\features\\conversation-panel\\cloud-new-conversation-menu",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-card",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-preview",
++   "src\\components\\features\\conversation-panel\\confirm-archive-modal",
++   "src\\components\\features\\conversation-panel\\exit-conversation-modal",
++   "src\\components\\features\\conversation-panel\\edit-conversation-tags-modal",
++   "src\\components\\features\\conversation-panel\\conversation-panel-row",
++   "src\\components\\features\\conversation-panel\\start-task-card\\start-task-card",
++   "src\\components\\features\\conversation-panel\\conversation-card\\conversation-card-skeleton",
++   "src\\components\\features\\conversation-panel\\compact-conversation-row",
++   "src\\components\\features\\conversation-panel\\conversation-layouts-menu",
++   "src\\components\\features\\conversation-panel\\conversation-active-tag-filters",
++   "src\\components\\features\\conversation-panel\\conversation-panel-new-thread-picker",
++   "src\\components\\features\\conversation-panel\\conversation-group-folder-list",
++   "src\\components\\features\\conversation-panel\\conversation-panel-pinned-section",
++   "src\\components\\features\\conversation-panel\\hook-matcher-content",
++   "src\\components\\features\\conversation-panel\\hooks-modal-header",
++   "src\\components\\features\\conversation-panel\\hooks-loading-state",
++   "src\\components\\features\\conversation-panel\\hooks-empty-state",
++   "src\\components\\features\\conversation-panel\\hook-event-item",
++   "src\\components\\features\\conversation-panel\\runtime-waiting-state",
++   "src\\components\\features\\conversation-panel\\skill-triggers",
++   "src\\components\\features\\conversation-panel\\skill-content",
++   "src\\components\\features\\conversation-panel\\skills-modal-header",
++   "src\\components\\features\\conversation-panel\\skills-modal-section",
++   "src\\components\\features\\conversation-panel\\skills-loading-state",
++   "src\\components\\features\\conversation-panel\\skills-empty-state",
++   "src\\components\\features\\conversation-panel\\skill-item",
++   "src\\components\\features\\conversation-panel\\system-message-modal\\system-message-content",
++   "src\\components\\features\\conversation-panel\\system-message-modal\\tools-list",
++   "src\\components\\features\\conversation-panel\\system-message-modal\\empty-tools-state",
++   "src\\components\\features\\conversation-panel\\system-message-modal\\tab-button",
++   "src\\components\\features\\conversation-panel\\system-message-modal\\tool-parameters",
++   "src\\components\\features\\conversation-panel\\system-message-modal\\toggle-button",
++   "src\\components\\features\\conversation-panel\\system-message-modal\\tool-item",
++   "src\\components\\features\\conversation-panel\\system-message-modal\\system-message-header",
++   "src\\components\\features\\conversation-panel\\system-message-modal\\tab-navigation",
++   "src\\components\\features\\conversation-panel\\system-message-modal\\tab-content",
++   "src\\components\\features\\diff-viewer\\commit-row",
++   "src\\components\\features\\diff-viewer\\uncommitted-changes-row",
++   "src\\components\\features\\diff-viewer\\diff-change-list",
++   "src\\components\\features\\diff-viewer\\accordion-panel",
++   "src\\components\\features\\diff-viewer\\loading-spinner",
++   "src\\components\\features\\diff-viewer\\file-diff-viewer",
++   "src\\components\\features\\diff-viewer\\editor-container",
++   "src\\components\\features\\files\\file-item",
++   "src\\components\\features\\files-tab\\highlighted-source-view",
++   "src\\components\\features\\files-tab\\view-mode",
++   "src\\components\\features\\files-tab\\tree-node",
++   "src\\components\\features\\hands\\graph\\graph-format",
++   "src\\components\\features\\hands\\graph\\graph-model",
++   "src\\components\\features\\hands\\graph\\graph-labels",
++   "src\\components\\features\\hands\\graph\\duration-label",
++   "src\\components\\features\\hands\\sessions\\session-row",
++   "src\\components\\features\\hands\\graph\\execution-graph",
++   "src\\components\\features\\hands\\graph\\graph-node-panel",
++   "src\\components\\features\\hands\\linear\\linear-filters",
++   "src\\components\\features\\hands\\linear\\linear-model",
++   "src\\components\\features\\hands\\linear\\linear-issue-list",
++   "src\\components\\features\\hands\\linear\\linear-issue-detail",
++   "src\\components\\features\\hands\\linear\\linear-drag",
++   "src\\components\\features\\hands\\linear\\use-linear-issue-actions",
++   "src\\components\\features\\hands\\linear\\linear-issue-card",
++   "src\\components\\features\\hands\\linear\\linear-inbox",
++   "src\\components\\features\\hands\\linear\\linear-link-repository-dialog",
++   "src\\components\\features\\hands\\linear\\linear-cancel-execution-dialog",
++   "src\\components\\features\\hands\\review\\review-states",
++   "src\\components\\features\\hands\\review\\review-file-list",
++   "src\\components\\features\\hands\\review\\review-evidence",
++   "src\\components\\features\\hands\\review\\review-reviews-list",
++   "src\\components\\features\\hands\\sessions\\session-labels",
++   "src\\components\\features\\hands\\sessions\\session-model",
++   "src\\components\\features\\hands\\sessions\\session-state-badge",
++   "src\\components\\features\\hands\\sessions\\session-time",
++   "src\\components\\features\\hands\\sessions\\tab-list",
++   "src\\components\\features\\hands\\settings\\ci\\ci-settings-model",
++   "src\\components\\features\\hands\\settings\\ci\\hands-settings-form-ui",
++   "src\\components\\features\\hands\\settings\\ci\\auto-fix-mode-group",
++   "src\\components\\features\\hands\\settings\\ci\\watched-repos-editor",
++   "src\\components\\features\\hands\\settings\\ci\\hands-settings-gate",
++   "src\\components\\features\\hands\\settings\\ci\\ci-settings-form",
++   "src\\components\\features\\hands\\settings\\ci\\ci-watch-table",
++   "src\\components\\features\\hands\\settings\\shared\\hands-settings-states",
++   "src\\components\\features\\hands\\settings\\shared\\hands-format",
++   "src\\components\\features\\hands\\settings\\connections\\connection-card",
++   "src\\components\\features\\hands\\settings\\connections\\browser-connection-card",
++   "src\\components\\features\\hands\\settings\\connections\\connection-extras",
++   "src\\components\\features\\hands\\settings\\linear\\linear-team-state-select",
++   "src\\components\\features\\hands\\settings\\linear\\linear-repo-mappings",
++   "src\\components\\features\\hands\\settings\\models-roles\\role-card",
++   "src\\components\\features\\hands\\settings\\models-roles\\role-model",
++   "src\\components\\features\\hands\\settings\\skills\\bossku-doctor-panel",
++   "src\\components\\features\\hands\\settings\\skills\\skill-tester",
++   "src\\components\\features\\hands\\settings\\workflow\\outcomes-card",
++   "src\\components\\features\\hands\\settings\\workflow\\use-hands-metrics",
++   "src\\components\\features\\home\\featured-automations\\automation-run-health",
++   "src\\components\\features\\home\\featured-automations\\automation-run-activity-metrics",
++   "src\\components\\features\\home\\featured-automations\\build-home-automation-menu-items",
++   "src\\components\\features\\home\\featured-automations\\automation-health-indicator",
++   "src\\components\\features\\home\\featured-automations\\automation-run-activity-sparkline",
++   "src\\components\\features\\home\\featured-automations\\build-pinned-automation-menu-items",
++   "src\\components\\features\\home\\featured-automations\\home-automation-menu",
++   "src\\components\\features\\home\\featured-automations\\pinned-automation-card",
++   "src\\components\\features\\home\\featured-automations\\home-automation-activity",
++   "src\\components\\features\\home\\featured-automations\\home-automation-run-tooltip",
++   "src\\components\\features\\home\\shared\\dropdown-item",
++   "src\\components\\features\\home\\shared",
++   "src\\components\\features\\home\\shared\\clear-button",
++   "src\\components\\features\\home\\shared\\toggle-button",
++   "src\\components\\features\\home\\shared\\error-message",
++   "src\\components\\features\\home\\git-branch-dropdown\\branch-dropdown-menu",
++   "src\\components\\features\\home\\git-branch-dropdown\\git-branch-dropdown",
++   "src\\components\\features\\home\\shared\\generic-dropdown-menu",
++   "src\\components\\features\\home\\shared\\loading-spinner",
++   "src\\components\\features\\home\\shared\\empty-state",
++   "src\\components\\features\\home\\git-provider-dropdown\\git-provider-dropdown",
++   "src\\components\\features\\home\\git-repo-dropdown\\use-url-search",
++   "src\\components\\features\\home\\git-repo-dropdown\\use-repository-data",
++   "src\\components\\features\\home\\git-repo-dropdown\\git-repo-dropdown",
++   "src\\components\\features\\home\\use-home-recommended-automations-dismissed",
++   "src\\components\\features\\home\\home-recommended-automations-storage",
++   "src\\components\\features\\home\\featured-automations\\pinned-automations-dashboard",
++   "src\\components\\features\\home\\featured-automations\\running-automations-list",
++   "src\\components\\features\\home\\home-header\\home-header-title",
++   "src\\components\\features\\home\\home-launcher-mode-toggle",
++   "src\\components\\features\\home\\open-launcher-button",
++   "src\\components\\features\\home\\open-workspace-dialog",
++   "src\\components\\features\\home\\open-repository-dialog",
++   "src\\components\\features\\home\\home-git-control-bar-preview",
++   "src\\components\\features\\home\\home-recommended-automations.constants",
++   "src\\components\\features\\home\\repo-selection-form",
++   "src\\components\\features\\home\\workspace-selection-form",
++   "src\\components\\features\\home\\git-provider-dropdown",
++   "src\\components\\features\\home\\git-branch-dropdown",
++   "src\\components\\features\\home\\git-repo-dropdown",
++   "src\\components\\features\\home\\workspace-dropdown\\workspace-dropdown",
++   "src\\components\\features\\home\\workspace-dropdown\\folder-browser-modal",
++   "src\\components\\features\\home\\workspace-dropdown\\manage-workspaces-modal",
++   "src\\components\\features\\images\\image-preview",
++   "src\\components\\features\\images\\image-lightbox",
++   "src\\components\\features\\images\\thumbnail",
++   "src\\components\\features\\launch\\plugin-launch-plugin-section",
++   "src\\components\\features\\launch\\plugin-launch-parameter-input",
++   "src\\components\\features\\manifest\\manifest-repository-list",
++   "src\\components\\features\\manifest\\manifest-form-field",
++   "src\\components\\features\\manifest\\manifest-prerequisites-step",
++   "src\\components\\features\\manifest\\manifest-review-step",
++   "src\\components\\features\\markdown\\remark-github-alerts",
++   "src\\components\\features\\markdown\\mermaid-diagram",
++   "src\\components\\features\\markdown\\list",
++   "src\\components\\features\\markdown\\paragraph",
++   "src\\components\\features\\markdown\\headings",
++   "src\\components\\features\\markdown\\table",
++   "src\\components\\features\\markdown\\blockquote",
++   "src\\components\\features\\markdown\\horizontal-rule",
++   "src\\components\\features\\markdown\\rehype-fade-in-words",
++   "src\\components\\features\\markdown\\markdown-table-scroll",
++   "src\\components\\features\\mcp-page\\installed-servers-section",
++   "src\\components\\features\\mcp-page\\installed-server-card",
++   "src\\components\\features\\mcp-page\\marketplace-section",
++   "src\\components\\features\\mcp-page\\marketplace-card",
++   "src\\components\\features\\mcp-page\\install-server-modal",
++   "src\\components\\features\\mcp-page\\save-as-secret-toggle",
++   "src\\components\\features\\mcp-page\\custom-server-editor",
++   "src\\components\\features\\mcp-page\\mcp-toolbar",
++   "src\\components\\features\\mcp-page\\mcp-managed-in-settings",
++   "src\\components\\features\\mcp-page\\mcp-section-filter",
++   "src\\components\\features\\mcp-page\\mcp-server-health",
++   "src\\components\\features\\mcp-page\\mcp-section-filter-dropdown",
++   "src\\components\\features\\onboarding\\onboarding-modal",
++   "src\\components\\features\\onboarding\\onboarding-host",
++   "src\\components\\features\\onboarding\\onboarding-progress-bar",
++   "src\\components\\features\\onboarding\\use-onboarding-completion",
++   "src\\components\\features\\onboarding\\onboarding-preview",
++   "src\\components\\features\\onboarding\\steps\\choose-agent-step",
++   "src\\components\\features\\onboarding\\steps\\check-backend-step",
++   "src\\components\\features\\onboarding\\steps\\setup-llm-step",
++   "src\\components\\features\\onboarding\\steps\\setup-acp-secrets-step",
++   "src\\components\\features\\onboarding\\steps\\say-hello-step",
++   "src\\components\\features\\plugins\\build-plugins-view-model",
++   "src\\components\\features\\plugins\\plugin-files-section",
++   "src\\components\\features\\plugins\\plugin-picker",
++   "src\\components\\features\\plugins\\plugin-picker-card",
++   "src\\components\\features\\plugins\\plugin-spec-identity",
++   "src\\components\\features\\settings\\agent-canvas-version-modal",
++   "src\\components\\features\\settings\\agent-profiles\\agent-profile-actions-menu",
++   "src\\components\\features\\settings\\agent-profiles\\agent-profile-row",
++   "src\\components\\features\\settings\\agent-profiles\\agent-profiles-manager",
++   "src\\components\\features\\settings\\agent-profiles\\merge-agent-profile-save-input",
++   "src\\components\\features\\settings\\agent-profiles\\new-profile-seed",
++   "src\\components\\features\\settings\\agent-profiles\\agent-profiles-body",
++   "src\\components\\features\\settings\\agent-profiles\\delete-agent-profile-modal",
++   "src\\components\\features\\settings\\agent-profiles\\agent-profiles-local-view",
++   "src\\components\\features\\settings\\input-skeleton",
++   "src\\components\\features\\settings\\switch-skeleton",
++   "src\\components\\features\\settings\\settings-dropdown-input",
++   "src\\components\\features\\settings\\upgrade-banner",
++   "src\\components\\features\\settings\\upgrade-button",
++   "src\\components\\features\\settings\\banner-message",
++   "src\\components\\features\\settings\\mobile-header",
++   "src\\components\\features\\settings\\settings-navigation",
++   "src\\components\\features\\settings\\settings-layout",
++   "src\\components\\features\\settings\\llm-profiles\\llm-profiles-manager",
++   "src\\components\\features\\settings\\llm-profiles\\llm-settings-local-view",
++   "src\\components\\features\\settings\\llm-profiles\\profiles-body",
++   "src\\components\\features\\settings\\llm-profiles\\profile-row",
++   "src\\components\\features\\settings\\llm-profiles\\profile-actions-menu",
++   "src\\components\\features\\settings\\llm-profiles\\rename-profile-modal",
++   "src\\components\\features\\settings\\llm-profiles\\delete-profile-modal",
++   "src\\components\\features\\settings\\llm-profiles\\profile-name-input",
++   "src\\components\\features\\settings\\llm-profiles\\add-models-modal",
++   "src\\components\\features\\settings\\llm-profiles\\provider-connections-manager",
++   "src\\components\\features\\settings\\sdk-settings\\sdk-section-page",
++   "src\\components\\features\\settings\\llm-profiles\\llm-profile-form",
++   "src\\components\\features\\settings\\llm-profiles\\profile-actions-menu-item",
++   "src\\components\\features\\settings\\llm-profiles\\provider-connection-actions-menu",
++   "src\\components\\features\\settings\\llm-profiles\\provider-connection-row",
++   "src\\components\\features\\settings\\llm-profiles\\provider-connection-modal",
++   "src\\components\\features\\settings\\llm-profiles\\delete-provider-connection-modal",
++   "src\\components\\features\\settings\\subtext-skeleton",
++   "src\\components\\features\\settings\\settings-input",
++   "src\\components\\features\\settings\\optional-tag",
++   "src\\components\\features\\settings\\meta-llm-profiles\\meta-llm-settings-view",
++   "src\\components\\features\\settings\\meta-llm-profiles\\meta-profile-editor",
++   "src\\components\\features\\settings\\meta-llm-profiles\\meta-profile-row",
++   "src\\components\\features\\settings\\meta-llm-profiles\\meta-profile-actions-menu",
++   "src\\components\\features\\settings\\meta-llm-profiles\\delete-meta-profile-modal",
++   "src\\components\\features\\settings\\meta-llm-profiles\\default-meta-profile",
++   "src\\components\\features\\settings\\meta-llm-profiles\\router-profiles",
++   "src\\components\\features\\settings\\sdk-settings\\field-help",
++   "src\\components\\features\\settings\\sdk-settings\\schema-field",
++   "src\\components\\features\\settings\\sdk-settings\\view-toggle",
++   "src\\components\\features\\settings\\settings-desktop-sidebar",
++   "src\\components\\features\\settings\\settings-nav-header",
++   "src\\components\\features\\settings\\settings-nav-divider",
++   "src\\components\\features\\settings\\settings-nav-link",
++   "src\\components\\features\\settings\\settings-mobile-drawer",
++   "src\\components\\features\\setup-guide\\super-admin-setup-guide.constants",
++   "src\\components\\features\\setup-guide\\super-admin-setup-step-event",
++   "src\\components\\features\\setup-guide\\tour\\setup-guide-tour",
++   "src\\components\\features\\setup-guide\\tour\\tour-engine",
++   "src\\components\\features\\setup-guide\\use-super-admin-setup-guide",
++   "src\\components\\features\\setup-guide\\tour\\tour-types",
++   "src\\components\\features\\sidebar\\sidebar-layout",
++   "src\\components\\features\\sidebar\\mars-session-panel",
++   "src\\components\\features\\sidebar\\sidebar-mobile-menu-toggle",
++   "src\\components\\features\\sidebar\\sidebar-mobile-nav-context",
++   "src\\components\\features\\sidebar\\sidebar-collapsed-icon-slot",
++   "src\\components\\features\\sidebar\\sidebar-onboarding-checklist.constants",
++   "src\\components\\features\\sidebar\\sidebar-onboarding-checklist-item-icon",
++   "src\\components\\features\\sidebar\\sidebar-onboarding-checklist-item-preview",
++   "src\\components\\features\\sidebar\\use-sidebar-onboarding-checklist",
++   "src\\components\\features\\sidebar\\sidebar-nav-link",
++   "src\\components\\features\\sidebar\\sidebar-conversation-list",
++   "src\\components\\features\\sidebar\\sidebar-onboarding-checklist",
++   "src\\components\\features\\sidebar\\sidebar-rail-body",
++   "src\\components\\features\\sidebar\\sidebar-onboarding-checklist-storage",
++   "src\\components\\features\\sidebar\\sidebar-onboarding-checklist-llm-complete",
++   "src\\components\\features\\sidebar\\avatar",
++   "src\\components\\features\\skills\\skill-type-badge",
++   "src\\components\\features\\skills\\skill-card-pill-row",
++   "src\\components\\features\\skills\\extensions-navigation",
++   "src\\components\\features\\skills\\skill-icon-badge",
++   "src\\components\\features\\skills\\get-skill-card-description",
++   "src\\components\\features\\skills\\build-skill-pills",
++   "src\\components\\features\\skills\\is-copyable-skill-source",
++   "src\\components\\features\\skills\\get-skill-chat-launch-message",
++   "src\\components\\features\\skills\\skill-facet-row",
++   "src\\components\\features\\skills\\skill-filter",
++   "src\\components\\features\\skills\\skill-facet-rail",
++   "src\\components\\features\\suggestions\\suggestion-item",
++   "src\\components\\features\\chat\\waiting-for-runtime-message",
++   "src\\components\\features\\terminal\\empty-terminal-message",
++   "src\\components\\features\\files\\file-list",
++   "src\\components\\providers\\telemetry-provider",
++   "src\\components\\providers\\agent-server-ui-root",
++   "src\\components\\providers\\agent-server-ui-providers",
++   "src\\components\\features\\backends\\cloud-organization-boundary",
++   "src\\components\\features\\settings",
++   "src\\routes\\app-settings",
++   "src\\routes\\llm-settings",
++   "src\\routes\\mcp-settings",
++   "src\\routes\\secrets-settings",
++   "src\\components\\shared\\buttons\\styled-tooltip",
++   "src\\components\\shared\\buttons\\back-nav-button-content",
++   "src\\components\\shared\\action-tooltip",
++   "src\\components\\shared\\buttons\\copy-to-clipboard-button",
++   "src\\components\\shared\\modals\\modal-backdrop",
++   "src\\components\\shared\\modals\\modal-body",
++   "src\\components\\shared\\buttons\\modal-button",
++   "src\\components\\shared\\modals\\confirmation-modals\\base-modal",
++   "src\\components\\shared\\modals\\use-modal-focus",
++   "src\\components\\shared\\modals\\confirmation-modals\\danger-modal",
++   "src\\components\\shared\\modals\\settings\\model-selector",
++   "src\\components\\shared\\modals\\settings\\settings-form",
++   "src\\components\\features\\sidebar\\sidebar",
++   "src\\components\\features\\sidebar\\user-avatar",
++   "src\\components\\features\\conversation-panel\\conversation-panel",
++   "src\\components\\features\\conversation-panel\\conversation-panel-wrapper",
++   "src\\components\\features\\terminal\\terminal",
++   "src\\components\\providers",
++   "src\\api\\mars\\mars-web-bridge",
++   "src\\i18n",
++   "src\\mocks\\should-start-mock-worker",
++   "src\\utils\\base-path-url",
++   "src\\hooks\\chat\\use-draft-persistence",
++   "src\\hooks\\mutation\\conversation-mutation-utils",
++   "src\\hooks\\query\\use-settings",
++   "src\\hooks\\query\\query-keys",
++   "src\\hooks\\mutation\\acp-selection",
++   "src\\hooks\\mutation\\sync-agent-profiles",
++   "src\\hooks\\query\\conversation-history-query-options",
++   "src\\hooks\\query\\use-user-conversation",
++   "src\\hooks\\query\\use-is-authed",
++   "src\\hooks\\use-user-providers",
++   "src\\hooks\\query\\use-automation-detail",
++   "src\\hooks\\query\\use-cloud-sandbox",
++   "src\\hooks\\query\\use-repository-branches",
++   "src\\hooks\\query\\use-search-branches",
++   "src\\hooks\\query\\use-cloud-organizations",
++   "src\\hooks\\query\\persisted-history-query-options",
++   "src\\hooks\\use-conversation-id",
++   "src\\hooks\\query\\use-active-conversation",
++   "src\\hooks\\query\\use-verified-models",
++   "src\\hooks\\query\\use-app-installations",
++   "src\\types\\git",
++   "src\\types\\settings",
++   "src\\hooks\\query\\use-native-git-integrations",
++   "src\\hooks\\query\\use-cloud-integrations-config",
++   "src\\hooks\\query\\use-manifest-capabilities",
++   "src\\hooks\\query\\use-workspace-file-discovery",
++   "src\\hooks\\use-drag-resize",
++   "src\\hooks\\use-automation-permissions",
++   "src\\hooks\\query\\use-cloud-current-user-id",
++   "src\\hooks\\use-mars-tunnel-backend",
++   "src\\hooks\\mutation\\use-delete-conversation",
++   "src\\hooks\\mutation\\use-unified-stop-conversation",
++   "src\\hooks\\mutation\\use-update-conversation-public-flag",
++   "src\\hooks\\use-download-conversation",
++   "src\\hooks\\use-select-conversation-tab",
++   "src\\i18n\\resources",
++   "src\\i18n\\translation.json",
++   "src\\lib",
++   "src\\components\\browser",
++   "src\\components\\conversation",
++   "src\\components\\files",
++   "src\\components\\settings",
++   "src\\components\\sidebar",
++   "src\\components\\terminal",
++   "src\\query-client-config",
++   "src\\styles\\agent-server-ui-style-scope",
++   "src\\types\\canvas-extension",
++   "src\\hooks\\use-telemetry",
++   "src\\manifests\\types",
++   "src\\manifests\\interface-validation",
++   "src\\manifests\\manifest-sources",
++   "src\\manifests\\automation-interface",
++   "src\\manifests\\manifest-local-validation",
++   "src\\manifests\\manifest-template",
++   "src\\manifests\\automation-setup",
++   "src\\manifests\\manifest-bundle",
++   "src\\manifests\\manifest-validation",
++   "src\\manifests\\manifest-registry",
++   "src\\mocks\\automations.mock",
++   "src\\mocks\\automation-runs.mock",
++   "src\\mocks\\handlers",
++   "src\\mocks\\file-service-handlers",
++   "src\\mocks\\secrets-handlers",
++   "src\\mocks\\agent-profiles-handlers",
++   "src\\mocks\\git-repository-handlers",
++   "src\\mocks\\settings-handlers",
++   "src\\mocks\\conversation-handlers",
++   "src\\mocks\\auth-handlers",
++   "src\\mocks\\feedback-handlers",
++   "src\\mocks\\analytics-handlers",
++   "src\\mocks\\automation-handlers",
++   "src\\mocks\\mcp-handlers",
++   "src\\mocks\\workspaces-handlers",
++   "src\\mocks\\canvas-extensions-handlers",
++   "src\\i18n\\declaration",
++   "src\\utils\\retrieve-axios-error-message",
++   "src\\utils\\custom-toast-handlers",
++   "src\\utils\\rate-limit-retry",
++   "src\\utils\\transient-error-retry",
++   "src\\routes\\+types\\automation-setup-route",
++   "src\\wrapper\\event-handler",
++   "src\\routes\\home",
++   "src\\routes\\mcp",
++   "src\\routes\\react-router-navigation-provider",
++   "src\\routes\\+types\\settings",
++   "src\\services\\client-tool-result",
++   "src\\stores\\session-activity-store",
++   "src\\stores\\pending-task-attachments-store",
++   "src\\themes\\color-theme\\types",
++   "src\\themes\\color-theme\\definitions\\openhands-deepsea",
++   "src\\themes\\color-theme\\definitions\\openhands-neutral",
++   "src\\themes\\color-theme\\definitions\\openhands-neo",
++   "src\\themes\\color-theme\\definitions\\light-plus",
++   "src\\themes\\color-theme\\definitions\\solarized-light",
++   "src\\themes\\color-theme\\definitions\\paper",
++   "src\\themes\\color-theme\\palettes\\neutral",
++   "src\\themes\\color-theme\\definitions",
++   "src\\themes\\color-theme\\runtime",
++   "src\\themes\\color-themes",
++   "src\\types\\agent-server\\core\\base\\base",
++   "src\\types\\agent-server\\core\\base\\common",
++   "src\\types\\agent-server\\core\\base\\action",
++   "src\\types\\agent-server\\core\\base\\critic",
++   "src\\types\\agent-server\\core\\base\\event",
++   "src\\types\\agent-server\\core\\base\\observation",
++   "src\\types\\agent-server\\core\\events\\acp-tool-call-event",
++   "src\\types\\agent-server\\core\\events\\action-event",
++   "src\\types\\agent-server\\core\\events\\condensation-event",
++   "src\\types\\agent-server\\core\\events\\conversation-state-event",
++   "src\\types\\agent-server\\core\\events\\hook-execution-event",
++   "src\\types\\agent-server\\core\\events\\message-event",
++   "src\\types\\agent-server\\core\\events\\observation-event",
++   "src\\types\\agent-server\\core\\events\\pause-event",
++   "src\\types\\agent-server\\core\\events\\streaming-delta-event",
++   "src\\types\\agent-server\\core\\events\\system-event",
++   "src\\types\\agent-server\\core\\base",
++   "src\\types\\agent-server\\core\\events",
++   "src\\types\\agent-server\\core\\openhands-event",
++   "src\\types\\agent-server\\core\\events\\index",
++   "src\\types\\agent-server\\core",
++   "src\\types\\mcp-auth",
++   "src\\ui\\dropdown\\types",
++   "src\\ui\\dropdown\\loading-spinner",
++   "src\\ui\\dropdown\\clear-button",
++   "src\\ui\\dropdown\\toggle-button",
++   "src\\ui\\dropdown\\dropdown-menu",
++   "src\\ui\\dropdown\\dropdown-input",
++   "src\\utils\\path-utils",
++   "src\\utils\\toast-duration",
++   "src\\utils\\user-facing-error",
++   "src\\utils\\api-error-message",
++   "src\\utils\\mcp-config",
++   "src\\utils\\type-guards",
++   "src\\utils\\sdk-http-error",
++   "src\\utils\\suggestions\\non-repo-suggestions",
++   "src\\utils\\suggestions\\repo-suggestions",
++   "src\\hooks\\use-handle-ws-events",
++   "src\\hooks\\use-handle-runtime-active",
++ ]
+
+ ❯ .agents/skills/verify-openhands/scripts/control-openhands.test.mjs:594:10
+    592|   };
+    593|   walk(join(repo, "src"));
+    594|   assert.deepEqual([...missing], []);
+       |          ^
+    595| });
+    596|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[33/43]⎯
+
+ FAIL  |jsdom| .agents/skills/verify-openhands/scripts/control-openhands.test.mjs > the tmux directory of a run comes from its whole path
+AssertionError: The input did not match the regular expression /^\/tmp\/ohv-tmux-[0-9a-f]{10}$/. Input:
+
+'\\tmp\\ohv-tmux-5edfa0d5ab'
+
+
+- Expected:
+/^\/tmp\/ohv-tmux-[0-9a-f]{10}$/
+
++ Received:
+"\\tmp\\ohv-tmux-5edfa0d5ab"
+
+ ❯ .agents/skills/verify-openhands/scripts/control-openhands.test.mjs:1317:10
+    1315|   );
+    1316|   assert.equal(tmuxPathFor("/tmp/x/run-1"), tmuxPathFor("/tmp/x/run-1"…
+    1317|   assert.match(tmuxPathFor("/tmp/x/run-1"), /^\/tmp\/ohv-tmux-[0-9a-f]…
+       |          ^
+    1318| });
+    1319|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[34/43]⎯
+
+ FAIL  |jsdom| .agents/skills/verify-openhands/scripts/control-openhands.test.mjs > bug run classifies live attempts and bug proof turns two runs into a verdict
+Error: Test timed out in 30000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ ❯ .agents/skills/verify-openhands/scripts/control-openhands.test.mjs:2767:1
+    2765| });
+    2766|
+    2767| test("bug run classifies live attempts and bug proof turns two runs in…
+       | ^
+    2768|   const dir = mkdtempSync(join(tmpdir(), "bug-map-"));
+    2769|   const write = (name, body, timeout) => {
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[35/43]⎯
+
+ FAIL  |jsdom| __tests__/components/features/sidebar/sidebar.test.tsx > Sidebar > keeps the Add Backend modal open after the popover closes
+Error: [2mexpect([22m[31melement[39m[2m).not.toBeInTheDocument()[22m
+
+[31mexpected document not to contain element, found <div
+  data-testid="backend-selector"
+>
+  <ul>
+    <li
+      aria-selected="false"
+      data-testid="mock-backend-option"
+      role="option"
+    >
+      Switch backend
+    </li>
+  </ul>
+  <button
+    data-testid="mock-add-backend"
+    type="button"
+  >
+    Add Backend
+  </button>
+  <button
+    data-testid="mock-manage-backends"
+    type="button"
+  >
+    Manage Backends
+  </button>
+</div> instead[39m
+ ❯ __tests__/components/features/sidebar/sidebar.test.tsx:576:58
+    574|     });
+    575|
+    576|     expect(screen.queryByTestId("backend-selector")).not.toBeInTheDocu…
+       |                                                          ^
+    577|     expect(await screen.findByTestId("add-backend-modal")).toBeInTheDo…
+    578|   });
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[36/43]⎯
+
+ FAIL  |jsdom| __tests__/components/features/sidebar/sidebar.test.tsx > Sidebar > keeps the Manage Backends modal open after the popover closes
+Error: [2mexpect([22m[31melement[39m[2m).not.toBeInTheDocument()[22m
+
+[31mexpected document not to contain element, found <div
+  data-testid="backend-selector"
+>
+  <ul>
+    <li
+      aria-selected="false"
+      data-testid="mock-backend-option"
+      role="option"
+    >
+      Switch backend
+    </li>
+  </ul>
+  <button
+    data-testid="mock-add-backend"
+    type="button"
+  >
+    Add Backend
+  </button>
+  <button
+    data-testid="mock-manage-backends"
+    type="button"
+  >
+    Manage Backends
+  </button>
+</div> instead[39m
+ ❯ __tests__/components/features/sidebar/sidebar.test.tsx:595:58
+    593|     });
+    594|
+    595|     expect(screen.queryByTestId("backend-selector")).not.toBeInTheDocu…
+       |                                                          ^
+    596|     expect(
+    597|       await screen.findByTestId("manage-backends-modal"),
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[37/43]⎯
+
+ FAIL  |jsdom| .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs > points the run at itself while it runs, and puts the run back when stopped
+AssertionError: Expected values to be strictly equal:
+
+438 !== 384
+
+
+- Expected
++ Received
+
+- 384
++ 438
+
+ ❯ .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs:262:10
+    260|   assert.equal(running.MARS_WEB, "1");
+    261|   const metadata = join(run, "private", "digitalocean-standin", "stand…
+    262|   assert.equal(statSync(metadata).mode & 0o777, 0o600);
+       |          ^
+    263|   assert.equal((await fetch(`${ready.baseUrl}/__standin/state`)).statu…
+    264|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[38/43]⎯
+
+ FAIL  |jsdom| .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs > puts back the run's own MARS_API_BASE_URL and MARS_WEB when stopped
+AssertionError: Expected values to be strictly equal:
+
+null !== 0
+
+
+- Expected:
+0
+
++ Received:
+null
+
+ ❯ .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs:287:10
+    285|   assert.equal(saved.previousMarsWeb, "0");
+    286|
+    287|   assert.equal(await stopCli(child), 0);
+       |          ^
+    288|   const env = JSON.parse(readFileSync(envFile, "utf8"));
+    289|   assert.equal(env.MARS_API_BASE_URL, "https://api.example.test");
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[39/43]⎯
+
+ FAIL  |jsdom| .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs > leaves the run alone when stopped after someone pointed it elsewhere
+AssertionError: Expected values to be strictly equal:
+
+null !== 0
+
+
+- Expected:
+0
+
++ Received:
+null
+
+ ❯ .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs:301:10
+    299|   writeFileSync(envFile, JSON.stringify(elsewhere));
+    300|
+    301|   assert.equal(await stopCli(child), 0);
+       |          ^
+    302|   const env = JSON.parse(readFileSync(envFile, "utf8"));
+    303|   assert.equal(env.MARS_API_BASE_URL, "https://api.example.test");
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[40/43]⎯
+
+ FAIL  |jsdom| .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs > stops on SIGTERM while a tunnel is open
+AssertionError: the stand-in is still running 5 s after SIGTERM
+ ❯ .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs:311:10
+    309|   await openTunnel(ready.baseUrl);
+    310|
+    311|   assert.notEqual(
+       |          ^
+    312|     await stopCli(child),
+    313|     null,
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[41/43]⎯
+
+ FAIL  |jsdom| .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs > survives a bad frame on a tunnel, and still puts the run back when stopped
+AssertionError: Expected values to be strictly equal:
+
+null !== 0
+
+
+- Expected:
+0
+
++ Received:
+null
+
+ ❯ .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs:333:10
+    331|   assert.equal((await fetch(`${ready.baseUrl}/__standin/state`)).statu…
+    332|   (await openTunnel(ready.baseUrl)).close();
+    333|   assert.equal(await stopCli(child), 0);
+       |          ^
+    334|   assert.equal(
+    335|     JSON.parse(readFileSync(envFile, "utf8")).MARS_API_BASE_URL,
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[42/43]⎯
+
+ FAIL  |jsdom| .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs > stops a guest that is still starting when cancelled
+Error: timed out
+ ❯ until .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs:81:9
+     79|     await new Promise((resolve) => setTimeout(resolve, 10));
+     80|   }
+     81|   throw new Error("timed out");
+       |         ^
+     82| };
+     83|
+ ❯ .agents/skills/verify-openhands/scripts/fixtures/digitalocean-standin.test.mjs:435:3
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[43/43]⎯
+
+
+ Test Files  15 failed | 966 passed | 1 skipped (982)
+      Tests  43 failed | 14109 passed | 1 expected fail | 59 skipped | 7 todo (14219)
+   Start at  12:16:34
+   Duration  832.37s (import 37%, tests 26%, environment 23%, setup 11%, transform 3%)
+
+EXIT 1
