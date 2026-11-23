@@ -1,0 +1,29 @@
+# Bossku Hands in Docker: Agent Server, automation, the Hands sidecar and the
+# frontend in one container, with your repositories mounted at /projects.
+#
+#   npm run build:docker -- --tag bossku-hands:local
+#   LOCAL_BACKEND_API_KEY=<long random value> \
+#   BOSSKU_HANDS_PROJECTS=<folder that holds your repositories> \
+#   docker compose -f docker/compose.hands.yml up
+#
+# Open http://127.0.0.1:8100 and paste LOCAL_BACKEND_API_KEY when asked.
+# In Hands, use repository paths under /projects (for example /projects/my-app).
+# The port is published on 127.0.0.1 only; keep it that way.
+name: bossku-hands
+services:
+  hands:
+    image: ${BOSSKU_HANDS_IMAGE:-bossku-hands:local}
+    ports:
+      - "127.0.0.1:${BOSSKU_HANDS_APP_PORT:-8100}:8000"
+    environment:
+      LOCAL_BACKEND_API_KEY: ${LOCAL_BACKEND_API_KEY:?Set LOCAL_BACKEND_API_KEY to a long random value}
+      # Used for the GitHub API and for Hands' own https pushes (no git
+      # credential manager exists in the container).
+      BOSSKU_HANDS_GITHUB_TOKEN: ${BOSSKU_HANDS_GITHUB_TOKEN:-}
+      BOSSKU_HANDS_LINEAR_API_KEY: ${BOSSKU_HANDS_LINEAR_API_KEY:-}
+    volumes:
+      - ${BOSSKU_HANDS_PROJECTS:?Set BOSSKU_HANDS_PROJECTS to the folder that holds your repositories}:/projects
+      - bossku-hands-state:/home/openhands/.openhands
+
+volumes:
+  bossku-hands-state:
